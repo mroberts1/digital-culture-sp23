@@ -1,0 +1,263 @@
+---
+title: ""
+---
+
+## VM303-01 STUDIES IN DIGITAL MEDIA & CULTURE**
+
+Department of Visual & Media Arts, Emerson College  
+Fall Semester 2021  
+Class meetings: Tues/Thur 17 January---4 May 2023 6:00-7:45 p.m.  
+Class location: TBA  
+Instructor: [Dr. Martin Roberts](http://mroberts.emerson.build/)  
+Office hours: Thur 3:00-5:00 p.m.  
+Office location: Ansin 915B  
+Email: [martin_roberts@emerson.edu](mailto:martin_roberts@emerson.edu)
+
+[YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF) | Syllabus (outside Canvas) | GitHub repository
+
+### Description
+This course provides a critical introduction to contemporary digital culture. **Culture**, in this sense, is understood in the specifically ethnographic sense, as a constantly-evolving system of symbolic exchange through which societies affirm shared meanings and common values. Particular attention is paid to the role of social media in this process and the complex relationship in digital culture between **publics**, **communities**, and **audiences**.
+
+The organizing theme for the course this semester is the concept of **digital ecosystems**, based on an analogy between digital technologies of communication and biological ecosystems. The concept of **viral media** is a familiar example, and the mutating world of **meme culture** can easily be understood as a kind of ecosystem.
+
+While discussions of digital culture today are dominated by the web, advertising-based platforms, and mobile devices, part of the course's purpose is to show that this is only part of the picture. Accordingly, equal attention is given to the proliferating internet communities based on open-source software and peer-to-peer (aka p2p) communication. You will be introduced to many of these communities - referred to as **networked publics** rather than social media users or audiences - and encouraged to join some of them. One of the course's goals is thus to understand that the commercial web and social media are only one kind of digital ecosystem among the larger world of such systems comprising internet culture.
+
+While a number of the communities we will be encountering are based around coding as a creative practice, the course has no prerequisites in terms of coding skills and includes no programming assignments. Some familiarity with the command-line interfaces (CLI) is useful but not required, and the course includes an introduction to using the terminal.
+
+----------
+
+### Core Texts
+
+Selected chapters from the texts below will be made available as PDFs; you are nevertheless encouraged to purchase at least several of texts that are of interest and read more of them.
+
+Note on formats: A number of texts listed in the bibliography are available as e-books and/or audiobooks. You are encouraged to make use not only of print media but also of these screen-based and audio formats.
+
+Adrian Hon, _You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All_ (New York: Basic Books, 2022)  
+
+
+----------
+
+### Assignments & Evaluation
+
+**1\. WHY WE POST (20%)**
+
+A review assignment based on the “Why We Post” series. After studying the core textbook _How The World Changed Social Media_, students are assigned (or select) one text from the collection of global case studies in the series. The assignment is to read the case study during the semester and discuss it with classmates working on other texts throughout the semester. Pair work is encouraged. A concluding short paper (1000 words) reflects upon the case study example and/or the larger group discussion.
+
+**2\. DIGITAL GARDEN (20%)**
+
+Using online tools such as **[Hyperdraft](https://hyperdraft.rosano.ca/)**, **[Chisai](https://github.com/Thomasorus/Chisai)**, or **[Jekyll](https://github.com/maximevaillancourt/digital-garden-jekyll-template)**, produce a digital garden about your personal interests and reflections. Guidelines regarding pages, length, etc. and links will be provided.
+
+**3\. GEMLOG (20%)**
+
+Using a platform such as Flounder or gemlog.blue, produce a gemlog that documents your discovery and exploration of the **[Gemini](https://gemini.circumlunar.space/)** community.
+
+**4\. COMMENTARY (20%)**
+
+Participation in weekly discussions of reading assignments. Each week, 2-3 students will be designated as discussion hosts for the week. Discussion hosting involves posting an initial reflective response on the reading assignments and then acting as moderators to the ensuing discussion. Depending on class numbers, each student can expect to act as host to 1-2 discussions over the course.
+
+**5\. RESEARCH PROJECT (20%)**
+
+An essay of 1,500 words in length (8 pages double-spaced approx., excluding bibliography) or a creative project that explores a problem or question on any topic relevant to the course. Projects will be presented to and discussed with the group after Thanksgiving, during the last two weeks of classes.
+
+----------
+
+### Class Schedule  
+
+----------
+
+*Week 1*
+
+2023-01-17_Tues
+
+2023-01-19_Thur
+
+----------
+
+*Week 2*
+
+2023-01-24_Tues
+
+2023-01-26_Thur
+
+----------
+
+*Week 3*
+
+2023-01-31_Tues
+
+2023-02-02_Thur
+
+----------
+
+*Week 4*
+
+2023-02-07_Tues
+
+2023-02-09_Thur
+
+----------
+
+*Week 5*
+
+2023-02-14_Tues
+
+2023-02-16_Thur
+
+----------
+
+*Week 6*
+
+2023-02-21_Tues  **NO CLASS (Monday schedule)
+
+2023-02-23_Thur
+
+----------
+
+*Week 7*
+
+2023-02-28_Tues
+
+2023-03-02_Thur
+
+----------
+
+*Week 8*
+
+2023-03-07_Tues
+
+2023-03-09_Thur
+
+----------
+
+2023-03-13-17  **Spring Break**
+
+***
+
+*Week 9*
+
+2023-03-21_Tues
+
+2023-03-23_Thur
+
+----------
+
+*Week 10*
+
+2023-03-28_Tues
+
+2023-03-30_Thur
+
+----------
+
+*Week 11*
+
+2023-04-04_Tues
+
+2023-04-06_Thur
+
+----------
+
+*Week 12*
+
+2023-04-11_Tues
+
+2023-04-13_Thur
+
+----------
+
+*Week 13*
+
+2023-04-18_Tues
+
+2023-04-20_Thur NO CLASS (Class make-up day)
+
+----------
+
+*Week 14*
+
+2023-04-25_Tues
+
+2023-04-27_Thur
+
+----------
+
+*Week 15*
+
+2023-05-02_Tues
+
+2023-05-04_Thur  **Last day of classes**
+
+----------
+
+#### Online Resources
+
+Taraneh Azar, “[The Meme Is The Message](https://www.themememessage.com/)” (special report)
+
+Sam LaVigne, [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/)
+
+
+#### Bibliography  
+
+\[A\] = [Audible.com](http://audible.com/) audiobook
+
+\[A\] danah boyd, _It’s Complicated: The Social Lives of Networked Teens_ (New Haven: Yale University Press, 2014).
+
+\[A\] Finn Brunton and Helen Nissenbaum, _Obfuscation: A User’s Guide for Privacy and Protest_ (Cambridge: MIT Press, 2016).
+
+\[A\] Gabriella Coleman, _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous_ (London and New York: Verso, 2014).
+
+David Craig, Jian Lin, and Stuart Cunningham, _Wanghong as Social Media Entertainment in China_. Palgrave Studies in Globalization, Culture and Society (London: Palgrave, 2021).
+
+Stuart Cunningham and David Craig, _Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley_ (New York: NYU Press, 2021).
+
+Eric Gordon and Adriana de Souza e Silva, _Net Locality: Why Location Matters in a Networked World_ (Chichester, West Sussex, UK: Wiley-Blackwell, 2011).
+
+Byung-Chul Han, _In The Swarm: Digital Prospects_ (Cambridge: MIT Press, 2017).
+
+\[A\] Adrian Hon, _You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All_ (New York: Basic Books, 2022).
+
+Sarah J. Jackson, Moya Bailey, et al., _#HashtagActivism: Networks of Race and Gender Justice_ (Cambridge: MIT Press, 2020).
+
+Lev Manovich, _Instagram and Contemporary Image_ (2015-17).
+
+— _Cultural Analytics_ (Cambridge: MIT Press, 2020).
+
+\[A\] Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_ (New York: Riverhead Books, 2019).
+
+\[A\] Angela Nagle, _Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right_ (Alresford, Hampshire, UK: Zero Books, 2017).
+
+Whitney Phillips, _This Is Why We Can’t Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture_ (Cambridge: MIT Press, 2015).
+
+\[A\] Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).
+
+\[A\] Zoë Quinn, _Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate_ (New York: PublicAffairs, 2017).
+
+\[A\] Jon Ronson, _So You’ve Been Publicly Shamed_ ( New York: Riverhead Books, 2015).
+
+\[A\] Kai Strittmatter, _We Have Been Harmonized: Life in China’s Surveillance State_ (New York: HarperCollins, 2020).
+
+Zeynep Tufekci, _Twitter and Tear Gas: The Power and Fragility of Networked Protest_ (New Haven: Yale University Press, 2017).
+
+----------
+
+#### Academic Honesty
+
+It is the responsibility of all Emerson students to know and adhere to the College’s policy on plagiarism which is available on the Emerson web site. If you have any question concerning the Emerson plagiarism policy or about documentation of sources in work you produce in this course, you should speak to your instructor. Any instance of plagiarism, cheating or academic dishonesty will result in an F on the assignment and potential disciplinary action by the administration.
+
+----------
+
+#### Diversity
+
+Every student in this class will be honored and respected as an individual with distinct experiences, talents, and backgrounds. Students will be treated fairly regardless of race, religion, sexual orientation, gender identification, disability, socio-economic status, or national identity. Issues of diversity may be a part of class discussion, assigned material, and projects. The instructor will make every effort to ensure that an inclusive environment exists for all students. If you have any concerns or suggestions for improving the classroom climate, please do not hesitate to speak with the course instructor or to contact the Office of Diversity and Inclusion at 617-824-8528 or by email at [diversity_inclusion@emerson.edu](mailto:diversity_inclusion@emerson.edu).
+
+----------
+
+#### Disability
+
+If you believe you have a disability that may warrant accommodations in this class, I urge you to register with the disability Services Coordinator, D. Anthony Bashir at 216 Tremont Street, 5th floor (617-824-8415) so that, together, you can work to develop methods of addressing needed accommodations in this class.
+
+----------
+
+#### Writing & Academic Resource Center
+
+Students are encouraged to visit and utilize the staff and resources of Emerson’s Writing Center, particularly if they are struggling with written assignments. The Writing Center is located at 216 Tremont Street on the 5th floor (tel. 617-824-7874).

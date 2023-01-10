@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "VM303-01 Studies in Digital Media & Culture"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    toc: true  
+    toc-depth: 3  
+    toc-location: left
+    toc-title: ' '
+    theme: 
+      light: ember.scss
+      dark: slate
+    css: styles.scss
+    fontsize: 1em
+    linestretch: 1.5
+    smooth-scroll: true
+  pdf:
+    geometry:
+    - top=30mm
+    - left=30mm 
+    
+docx: default
+fig-responsive: true
+link-external-newwindow: false
+embed-resources: false
+bibliography: references.bib
+editor: visual
