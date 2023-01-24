@@ -30,7 +30,8 @@ format:
     geometry:
     - top=30mm
     - left=30mm 
-    
+margin-header: | 
+    ![](img/Purple-Restricted-Flourish-400px.png){size="50%"}
 page-layout: article
 docx: default
 fig-responsive: true
