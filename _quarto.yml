@@ -36,3 +36,5 @@ fig-responsive: true
 link-external-newwindow: false
 embed-resources: false
 editor: visual
+execute:
+  freeze: auto
