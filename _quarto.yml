@@ -4,7 +4,7 @@ project:
 website:
   title: ""
   navbar:
-    background: light
+    background: "#62259d"
     search: false
     right:
       - text: "Home"
@@ -21,10 +21,11 @@ format:
     theme: 
       light: ember.scss
       dark: slate
-    css: styles.css
+    css: custom.scss
     fontsize: 1em
     linestretch: 1.5
     smooth-scroll: true
+    linkcolor: "#706258"
   pdf:
     geometry:
     - top=30mm

@@ -2,12 +2,13 @@
 title: ""
 embed-resources: false
 ---
+
 ## VM303-01 Studies in Digital Media & Culture
 
 Department of Visual & Media Arts, Emerson College Spring Semester 2023\
 Class meetings: Tues/Thur 17 January---4 May 2023 6:00-7:45 p.m.\
 Class location: Ansin Building 605\
-Instructor: [Dr. Martin    Roberts](http://mroberts.emerson.build/)\
+Instructor: [Dr. Martin Roberts](http://mroberts.emerson.build/)\
 Office hours: Thur 3:00-5:00 p.m.\
 Office location: Ansin Building, TBA\
 Email: [martin_roberts\@emerson.edu](mailto:martin_roberts@emerson.edu)
@@ -16,9 +17,9 @@ Email: [martin_roberts\@emerson.edu](mailto:martin_roberts@emerson.edu)
 
 ### Description
 
-This course considers the nature and contemporary forms of digital culture. Broadly speaking, this can be defined as the diverse range of symbolic practices through which communities affirm  and maintain their cultural identities using digital media devices and interfaces in a globally networked society. While these practices are structured by deeply unequal power relations, are contradictory, and often come into conflict with one another, collectively they constitute what may be considered a global digital culture.
+This course considers the nature and contemporary forms of digital culture. Broadly speaking, this can be defined as the diverse range of symbolic practices through which communities affirm and maintain their cultural identities using digital media devices and interfaces in a globally networked society. While these practices are structured by deeply unequal power relations, are contradictory, and often come into conflict with one another, collectively they constitute what may be considered a global digital culture.
 
-A key component of the course is the automation of various forms of creative production, from writing to the visual arts, by natural-language processing computational systems (generally referred to as "artificial intelligence" or "AI"). The course addresses some of the many issues raised by such systems, with a particular focus on questions of aesthetics and the increasingly contested relationship between artists and algorithms. While such systems  now demonstrably pass the Turing Test (i.e. pass as human or their products as human-produced), they also compel us to reconsider what we mean by "art," or "intelligence" itself.
+A key component of the course is the automation of various forms of creative production, from writing to the visual arts, by natural-language processing computational systems (generally referred to as "artificial intelligence" or "AI"). The course addresses some of the many issues raised by such systems, with a particular focus on questions of aesthetics and the increasingly contested relationship between artists and algorithms. While such systems now demonstrably pass the Turing Test (i.e. pass as human or their products as human-produced), they also compel us to reconsider what we mean by "art," or "intelligence" itself.
 
 A major theme of the course is the changing status of the **future** as a social imaginary. It has been suggested that while we live today in the futures imagined by writers and filmmakers since George Orwell's novel *1984* (1949) and films like *2001: A Space Odyssey* (1968), *Blade Runner* (1982, set in 2019 and later 2049), or *Soylent Green* (1973, set in 2022), postmodern society has become so absorbed in commemorating its own past that it has become incapable of imagining its own future, dystopian or otherwise. As the course shows, historical projections of the future (often referred to as "retrofutures") have paradoxically themselves become objects of postmodernist nostalgia.
 
@@ -26,11 +27,17 @@ A major theme of the course is the changing status of the **future** as a social
 
 This is primarily a critical-thinking course, although it includes a practical and production component. This means that it encourages you to think reflexively and analytically about the digitally-mediated cultural practices that the course considers, as well as to participate in them; for example, you will be invited to experiment with image-synthesis and text-generating software and analyze the results using key concepts and theoretical frameworks.
 
-### Outcomes
+### **Outcomes**
 
-By the end of the course, students will be able to:
+By the end of the course, students will:
 
-- 
+-   have a acquired a deeper understanding of the social, cultural, and political dimensions of digital technologies and networked communication;
+
+-   be able to apply critical thinking to contemporary developments in digital culture using relevant analytical concepts and both qualitative and quantitative methodologies such as cultural analytics;
+
+-   understand basic principles of algorithmic image synthesis on a variety of platforms;
+
+-   have reflected upon and discussed the larger significance of machine learning systems within global networked societies.
 
 ------------------------------------------------------------------------
 
@@ -40,20 +47,15 @@ Selected chapters from the texts below will be made available as PDFs; you are n
 
 Note on formats: A number of texts listed in the bibliography are available as e-books and/or audiobooks. You are encouraged to make use not only of print media but also of these screen-based and audio formats.
 
-[Adrian Hon](https://mssv.net/), _You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All_. New York: Basic Books, 2022.
+[Adrian Hon](https://mssv.net/), *You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All*. New York: Basic Books, 2022.
 
-[Lev Manovich](https://manovich.net/) and Emanuele Arielli. [_Artificial Aesthetics: A Critical Guide to AI, Media and Design_](http://manovich.net/index.php/projects/artificial-aesthetics-book). 2019-22.
+[Lev Manovich](https://manovich.net/) and Emanuele Arielli. [*Artificial Aesthetics: A Critical Guide to AI, Media and Design*](http://manovich.net/index.php/projects/artificial-aesthetics-book). 2019-22.
 
-[Joanne McNeil](https://joannemcneil.com/). _Lurking: How A Person Became A User_. New York: Farrar, Strauss, and Giroux, 2020. ISBN: 978-1250785756.
+[Joanne McNeil](https://joannemcneil.com/). *Lurking: How A Person Became A User*. New York: Farrar, Strauss, and Giroux, 2020. ISBN: 978-1250785756.
 
 ### Media
 
-*The Shining* 
-_The African Desperate_
-_Dragonfly Eyes_
-_The Tinder Swindler_
-_The Hunger Games_
-_Squid Game_
+*The Shining* *The African Desperate* *Dragonfly Eyes* *The Tinder Swindler* *The Hunger Games* *Squid Game*
 
 ------------------------------------------------------------------------
 
@@ -67,16 +69,16 @@ _Squid Game_
 
 2023-01-17_Tues
 
-**Terminal Lucidity**  
+**Terminal Lucidity**\
 Fisher, "'The Slow Cancellation of the Future'"
 
-Film: *The Shining*  
-*Everywhere at the End of Time* (The Caretaker)  
+Film: *The Shining*\
+*Everywhere at the End of Time* (The Caretaker)
 
 2023-01-19_Thur
 
-**Internet Über Alles**  
-Hito Steyerl, "[Too Much World: Is The Internet Dead?](https://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/)" [download PDF]
+**Internet Über Alles**\
+Hito Steyerl, "[Too Much World: Is The Internet Dead?](https://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/)" \[download PDF\]
 
 ------------------------------------------------------------------------
 
@@ -84,12 +86,12 @@ Hito Steyerl, "[Too Much World: Is The Internet Dead?](https://www.e-flux.com/jo
 
 2023-01-24_Tues
 
-**Lurking**  
-McNeil, *Lurking*: Introduction, ch. 2 (Anonymity)  
+**Lurking**\
+McNeil, *Lurking*: Introduction, ch. 2 (Anonymity)
 
 2023-01-26_Thur
 
-McNeil, *Lurking*, ch. 4 (Sharing)  
+McNeil, *Lurking*, ch. 4 (Sharing)
 
 ------------------------------------------------------------------------
 
@@ -99,16 +101,13 @@ McNeil, *Lurking*, ch. 4 (Sharing)
 
 2023-01-31_Tues
 
-Tiffany, "[You Probably Don't Remember The Internet](https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/)"  
+Tiffany, "[You Probably Don't Remember The Internet](https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/)"
 
-Choose and read **one** of these texts by [instar books](http://www.instarbooks.com/remember-the-internet.html) (you will have to purchase either the print or ebook edition):
-- Ana Valens, [*Tumblr Porn*](http://www.instarbooks.com/books/tumblr-porn.html)
-- Megan Milks, [*Tori Amos Bootleg Webring*](http://www.instarbooks.com/books/tori-amos-bootleg-webring.html)
-- Quinn Myers, [*Google Glass*](http://www.instarbooks.com/books/google-glass.html)
+Choose and read **one** of these texts by [instar books](http://www.instarbooks.com/remember-the-internet.html) (you will have to purchase either the print or ebook edition): - Ana Valens, [*Tumblr Porn*](http://www.instarbooks.com/books/tumblr-porn.html) - Megan Milks, [*Tori Amos Bootleg Webring*](http://www.instarbooks.com/books/tori-amos-bootleg-webring.html) - Quinn Myers, [*Google Glass*](http://www.instarbooks.com/books/google-glass.html)
 
 2023-02-02_Thur
 
-Parham, “[A People’s History of Black Twitter](https://www.wired.com/story/black-twitter-oral-history-part-i-coming-together/)”  
+Parham, "[A People's History of Black Twitter](https://www.wired.com/story/black-twitter-oral-history-part-i-coming-together/)"
 
 Baraka, "[Technnology & Ethos](http://www.soulsista.com/titanic/baraka.html)" (1970)
 
@@ -118,40 +117,40 @@ Baraka, "[Technnology & Ethos](http://www.soulsista.com/titanic/baraka.html)" (1
 
 2023-02-07_Tues
 
-**The Angel of History: Afrofuturism**  
-Dery, "Black to the Future: Interviews with Samuel R. Delaney, Greg Tate, and Tricia Rose," in _Flame Wars: The Discourse of Cyberculture_ (Durham: Duke University Press, 1994
+**The Angel of History: Afrofuturism**\
+Dery, "Black to the Future: Interviews with Samuel R. Delaney, Greg Tate, and Tricia Rose," in *Flame Wars: The Discourse of Cyberculture* (Durham: Duke University Press, 1994
 
-Eshun, "Further Considerations on Afrofuturism" (_The New Centennial Review_, vol. 3, no. 2 (Summer 2003): 287-302)  
+Eshun, "Further Considerations on Afrofuturism" (*The New Centennial Review*, vol. 3, no. 2 (Summer 2003): 287-302)
 
-Film (excerpt shown in class): _The Last Angel of History_ (John Akomfrah/Black Audio Film Collective, 1995)
+Film (excerpt shown in class): *The Last Angel of History* (John Akomfrah/Black Audio Film Collective, 1995)
 
-Jason Farago, "[How Klee's 'Angel of History' Took Flight](https://www.bbc.com/culture/article/20160401-how-klees-angel-of-history-took-flight)" (BBC Culture, 6 April 2016)  
+Jason Farago, "[How Klee's 'Angel of History' Took Flight](https://www.bbc.com/culture/article/20160401-how-klees-angel-of-history-took-flight)" (BBC Culture, 6 April 2016)
 
 2023-02-09_Thur
 
-"[The Futurist Digital Collages of Manzel Bowman](http://www.africandigitalart.com/2017/10/05/the-futurist-digital-collages-by-manzel-bowman/)" ([African Digital Art](http://africandigitalart.com/) website) 
+"[The Futurist Digital Collages of Manzel Bowman](http://www.africandigitalart.com/2017/10/05/the-futurist-digital-collages-by-manzel-bowman/)" ([African Digital Art](http://africandigitalart.com/) website)
 
-Recommended: [*The African Desperate*](https://mubi.com/films/the-african-desperate) (Martine Syms, 2022). Currently streaming on MUBI and Apple TV  
+Recommended: [*The African Desperate*](https://mubi.com/films/the-african-desperate) (Martine Syms, 2022). Currently streaming on MUBI and Apple TV
 
 ------------------------------------------------------------------------
 
 *Week 5*
 
-#### II. Digital Imageworlds  
+#### II. Digital Imageworlds
 
 2023-02-14_Tues
 
-**#digitalcamera: Lo-fi Photography and Retro-Aesthetics**  
+**#digitalcamera: Lo-fi Photography and Retro-Aesthetics**\
 Huang, Kalley. "[The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html?fbclid=IwAR1X2DutHJgtJFKB6XdcFjbm3kFB9P-IXPT7HckeGErsOrk0jTVGxugXYzk&referringSource=articleShare&smid=nytcore-ios-share&unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqIhkSVUbBCbJUNMnqBqCgvfeh7A9iX7iJSzQQj9Hwv4cGM2H_1bIfbd4ItA62TOdAt9dNbtlDNpD8thiBW0_AQ-5vsnD350fPyQ-rY_0Dm9qhMvBUL59-jTjPizkd7wmgezgtErDOzbvUaLc2CB2LF1isoIlIQ_xoQEAxqjPGuB009hsj7x2Vt0hG2B2NGTdtOLoCh5_JNyFchjZjwE8UOhdUjzQ9sWOv_NCKE4BTAKbEw4spDo0-9heO9kIPa7gLBZGeMv2gLoZD2cAP55OPFabG3prPPkN94E3_vHG)"
 
 "[Snapshot Aesthetics and the Strategic Imagination](http://ivc.lib.rochester.edu/snapshot-aesthetics-and-the-strategic-imagination/)"
 
 2023-02-16_Thur
 
-**Soft Images: From Photograph to Database**  
-Horning, "[The Expanded Field](https://robhorning.substack.com/p/the-expanded-field)"  
+**Soft Images: From Photograph to Database**\
+Horning, "[The Expanded Field](https://robhorning.substack.com/p/the-expanded-field)"
 
-Hoelzl and Marie, "Expanded Photography (The Desire for Endlessness)" in *Softimage*)   
+Hoelzl and Marie, "Expanded Photography (The Desire for Endlessness)" in *Softimage*)
 
 "[DALL-E: Introducting Outpainting](https://openai.com/blog/dall-e-introducing-outpainting/)"
 
@@ -163,7 +162,7 @@ Hoelzl and Marie, "Expanded Photography (The Desire for Endlessness)" in *Softim
 
 2023-02-23_Thur
 
-**Object Detection**  
+**Object Detection**\
 Film: *Dragonfly Eyes* (Xu Bing, 2017)
 
 Hatis Noit, "Aura" (music video)
@@ -176,21 +175,20 @@ Hatis Noit, "Aura" (music video)
 
 2023-02-28_Tues
 
-**The Sorcerer's Apprentice: AI Art**  
+**The Sorcerer's Apprentice: AI Art**\
 Manovich, "Who is an Artist in AI Era?" ([*Artificial Aesthetics*](http://manovich.net/index.php/projects/artificial-aesthetics-book), ch. 2)
 
-**Workshop: Midjourney**  
-[Midjourney](https://www.midjourney.com/): AI image synthesis  
+**Workshop: Midjourney**\
+[Midjourney](https://www.midjourney.com/): AI image synthesis
 
-Guy Parsons, "[Everything you wanted to know about Midjourney](https://dallery.gallery/midjourney-guide-ai-art-explained/)" (5 August 2022)  
+Guy Parsons, "[Everything you wanted to know about Midjourney](https://dallery.gallery/midjourney-guide-ai-art-explained/)" (5 August 2022)\
 [Midjourney documentation](https://midjourney.gitbook.io/docs/)
 
 2023-03-02_Thur
 
-**Magic Spells**
-Roland Barthes, "Rhetoric of the Image"   
+**Magic Spells** Roland Barthes, "Rhetoric of the Image"
 
-**Workshop: [DALL-E 2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf), [Lexica](https://lexica.art/), [promptcraft](https://www.reddit.com/r/promptcraft/)**   
+**Workshop: [DALL-E 2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf), [Lexica](https://lexica.art/), [promptcraft](https://www.reddit.com/r/promptcraft/)**
 
 ------------------------------------------------------------------------
 
@@ -200,14 +198,14 @@ Roland Barthes, "Rhetoric of the Image"
 
 Lev Manovich, "AI and Myths of Creativity" ([*Artificial Aesthetics*](http://manovich.net/index.php/projects/artificial-aesthetics-book), ch. 4)
 
-**Workshop: DALL-E 2**   
-[DALL-E 2](https://openai.com/dall-e-2/)  
-[dall-ery gall-ery](https://dallery.gallery/)  
+**Workshop: DALL-E 2**\
+[DALL-E 2](https://openai.com/dall-e-2/)\
+[dall-ery gall-ery](https://dallery.gallery/)
 
 2023-03-09_Thur
 
-**Workshop: Stable Diffusion**  
-[Stable Diffusion](https://stablediffusionweb.com/)  
+**Workshop: Stable Diffusion**\
+[Stable Diffusion](https://stablediffusionweb.com/)
 
 ------------------------------------------------------------------------
 
@@ -221,12 +219,12 @@ Lev Manovich, "AI and Myths of Creativity" ([*Artificial Aesthetics*](http://man
 
 2023-03-21_Tues
 
-**Gaming The System**  
+**Gaming The System**\
 Hon, *You've Been Played*: Introduction, chapter 1
 
 2023-03-23_Thur
 
-**The Gamified Self**  
+**The Gamified Self**\
 Hon, *You've Been Played*: chapter 2
 
 ------------------------------------------------------------------------
@@ -235,14 +233,14 @@ Hon, *You've Been Played*: chapter 2
 
 2023-03-28_Tues
 
-**Gamified Relationships: Ghosting**  
+**Gamified Relationships: Ghosting**\
 Narr and Luong, "Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom"
 
-Film: *The Tinder Swindler* (Netflix)  
+Film: *The Tinder Swindler* (Netflix)
 
 2023-03-30_Thur
 
-**Non-Player Characters: Gamifying the Workplace**  
+**Non-Player Characters: Gamifying the Workplace**\
 Hon, *You've Been Played*: chapter 3
 
 ------------------------------------------------------------------------
@@ -251,7 +249,7 @@ Hon, *You've Been Played*: chapter 3
 
 2023-04-04_Tues
 
-**The Gamified Society**  
+**The Gamified Society**\
 Hon, *You've Been Played*: chapter 6 (Intro, The Myth and Reality of the Social Credit Score, "It Can't Happen Here," Propaganda, Wargames)
 
 2023-04-06_Thur
@@ -276,9 +274,8 @@ Hon, *You've Been Played*: chapters 9-10
 
 2023-04-18_Tues
 
-**Gamified Media**
-Film: *The Hunger Games*  
-TV: *Squid Game*  
+**Gamified Media** Film: *The Hunger Games*\
+TV: *Squid Game*
 
 2023-04-20_Thur (Official make-up day, if necessary)
 
@@ -318,23 +315,23 @@ Individual. Two short analytical essays 1,000 words in length (4 pages double-sp
 
 Individual. Participation in weekly discussions of reading assignments. Each week, 2-3 students will be designated as discussion hosts for the week. Discussion hosting involves posting an initial reflective response on the reading assignments and then acting as moderators to the ensuing discussion.
 
-**3.ChatGPT (15%)**  
+**3.ChatGPT (15%)**
 
-Individual. Write a prompt for ChatGPT (or a similar language-based model) that generates a 500-word essay on a subject of your choice. (You will likely have to experiment with customizing the prompt in order to generate a satisfactory result.). Then write (do not generate) a 500-word reflection on the output from the prompt. 
+Individual. Write a prompt for ChatGPT (or a similar language-based model) that generates a 500-word essay on a subject of your choice. (You will likely have to experiment with customizing the prompt in order to generate a satisfactory result.). Then write (do not generate) a 500-word reflection on the output from the prompt.
 
 Remember that this output is the result of pattern matching from very large datasets, not intelligence in the human sense; therefore, avoid vague speculations about whether ChatGPT can be considered as intelligent, or even sentient. Instead, evaluate the output purely **as if** it was written by a human subject. How satisfactory is it as a response to the prompt? What are its strengths, or blind spots? Can it pass for having been written by a human? If not, why not? Is it useful from a conceptual or analytical standpoint? If so, how?
 
-**4.Generative Art Gallery (15%)**  
+**4.Generative Art Gallery (15%)**
 
-Individual. Using one of the systems focused on in the course (DALL-E 2, Midjourney, Stable Diffusion), submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.) 
+Individual. Using one of the systems focused on in the course (DALL-E 2, Midjourney, Stable Diffusion), submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.)
 
 Multiples are acceptable, even encouraged. This work will be reviewed collectively by the group and displayed as a gallery, initally on Canvas, and later (with your permission) on the web.
 
-**5. Gamification Project (25%)**  
+**5. Gamification Project (25%)**
 
-Group project (2-3 students). 
+Group project (2-3 students).
 
-Drawing on your reading of Adrian Hon's book *You've Been Played*, In consultation with your other group members, develop a gamification strategy for a product, service, organization, or institution of your choice. This may be a real, existing product, etc., or one that does not (yet) exist. 
+Drawing on your reading of Adrian Hon's book *You've Been Played*, In consultation with your other group members, develop a gamification strategy for a product, service, organization, or institution of your choice. This may be a real, existing product, etc., or one that does not (yet) exist.
 
 Write a proposal of approximately 1,000-1,500 words in length (4-6 pages, double-spaced) and prepare a presentation outlining the project that you have in mind: primary objectives, target audience, platforms used, game mechanics (how will people play it?), outcomes (points, rewards, badges, leaderboards, etc). Projects will be presented and discussed with the class during the last four meetings.
 
@@ -344,29 +341,29 @@ Write a proposal of approximately 1,000-1,500 words in length (4-6 pages, double
 
 \[A\] = audiobook ([Audible.com](http://audible.com/))
 
-Barthes, Roland. "Rhetoric of the Image," in _Image Music Text_. Essays selected and translated by Stephen Heath. London: FontanaPress, 1977: 32-51.
+Barthes, Roland. "Rhetoric of the Image," in *Image Music Text*. Essays selected and translated by Stephen Heath. London: FontanaPress, 1977: 32-51.
 
-Dery, Mark. "Black to the Future: Interviews with Samuel R. Delaney, Greg Tate, and Tricia Rose," in _Flame Wars: The Discourse of Cyberculture_ (Durham: Duke University Press, 1994
+Dery, Mark. "Black to the Future: Interviews with Samuel R. Delaney, Greg Tate, and Tricia Rose," in *Flame Wars: The Discourse of Cyberculture* (Durham: Duke University Press, 1994
 
-Eshun, Kodwo. "Further Considerations on Afrofuturism" (_The New Centennial Review_, vol. 3, no. 2 (Summer 2003): 287-302)  
+Eshun, Kodwo. "Further Considerations on Afrofuturism" (*The New Centennial Review*, vol. 3, no. 2 (Summer 2003): 287-302)
 
-Fisher, Mark. "'The Slow Cancellation of the Future,'" in _Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures_. Winchester, UK: Zero Books, 2014.
+Fisher, Mark. "'The Slow Cancellation of the Future,'" in *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. Winchester, UK: Zero Books, 2014.
 
-Hoelzl, Ingrid, and Rémi Marie. "Expanded Photography (The Desire for Endlessness)," in _Softimage: Towards A New Theory of the Digital Image_. Bristol, UK: Intellect Books, 2015.
+Hoelzl, Ingrid, and Rémi Marie. "Expanded Photography (The Desire for Endlessness)," in *Softimage: Towards A New Theory of the Digital Image*. Bristol, UK: Intellect Books, 2015.
 
-\[A\] [Hon, Adrian](https://mssv.net/). _You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All_. New York: Basic Books, 2022.
+\[A\] [Hon, Adrian](https://mssv.net/). *You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All*. New York: Basic Books, 2022.
 
-Huang, Kalley. "[The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html?fbclid=IwAR1X2DutHJgtJFKB6XdcFjbm3kFB9P-IXPT7HckeGErsOrk0jTVGxugXYzk&referringSource=articleShare&smid=nytcore-ios-share&unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqIhkSVUbBCbJUNMnqBqCgvfeh7A9iX7iJSzQQj9Hwv4cGM2H_1bIfbd4ItA62TOdAt9dNbtlDNpD8thiBW0_AQ-5vsnD350fPyQ-rY_0Dm9qhMvBUL59-jTjPizkd7wmgezgtErDOzbvUaLc2CB2LF1isoIlIQ_xoQEAxqjPGuB009hsj7x2Vt0hG2B2NGTdtOLoCh5_JNyFchjZjwE8UOhdUjzQ9sWOv_NCKE4BTAKbEw4spDo0-9heO9kIPa7gLBZGeMv2gLoZD2cAP55OPFabG3prPPkN94E3_vHG)." _New York Times_, 7 January 2023.
+Huang, Kalley. "[The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html?fbclid=IwAR1X2DutHJgtJFKB6XdcFjbm3kFB9P-IXPT7HckeGErsOrk0jTVGxugXYzk&referringSource=articleShare&smid=nytcore-ios-share&unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqIhkSVUbBCbJUNMnqBqCgvfeh7A9iX7iJSzQQj9Hwv4cGM2H_1bIfbd4ItA62TOdAt9dNbtlDNpD8thiBW0_AQ-5vsnD350fPyQ-rY_0Dm9qhMvBUL59-jTjPizkd7wmgezgtErDOzbvUaLc2CB2LF1isoIlIQ_xoQEAxqjPGuB009hsj7x2Vt0hG2B2NGTdtOLoCh5_JNyFchjZjwE8UOhdUjzQ9sWOv_NCKE4BTAKbEw4spDo0-9heO9kIPa7gLBZGeMv2gLoZD2cAP55OPFabG3prPPkN94E3_vHG)." *New York Times*, 7 January 2023.
 
-[Manovich, Lev](https://manovich.net/), and Emanuele Arielli. [_Artificial Aesthetics: A Critical Guide to AI, Media and Design_](http://manovich.net/index.php/projects/artificial-aesthetics-book). 2019-22.
+[Manovich, Lev](https://manovich.net/), and Emanuele Arielli. [*Artificial Aesthetics: A Critical Guide to AI, Media and Design*](http://manovich.net/index.php/projects/artificial-aesthetics-book). 2019-22.
 
-[McNeil, Joanne](https://joannemcneil.com/). _Lurking: How A Person Became A User_. New York: Farrar, Strauss, and Giroux, 2020. ISBN: 978-1250785756.
+[McNeil, Joanne](https://joannemcneil.com/). *Lurking: How A Person Became A User*. New York: Farrar, Strauss, and Giroux, 2020. ISBN: 978-1250785756.
 
-Mumford, Lewis. “Authoritarian and Democratic Technics,” *Technology and Culture* 5, no. 1 (Winter 1964): 1–8. https://doi.org/10.2307/3101118.
+Mumford, Lewis. "Authoritarian and Democratic Technics," *Technology and Culture* 5, no. 1 (Winter 1964): 1--8. https://doi.org/10.2307/3101118.
 
-Narr, Greg, and Anh Luong, "Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom." _The Communication Review_, 5 October. https://doi.org/10.1080/10714421.2022.2129949  
+Narr, Greg, and Anh Luong, "Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom." *The Communication Review*, 5 October. https://doi.org/10.1080/10714421.2022.2129949
 
-"[Snapshot Aesthetics and the Strategic Imagination](http://ivc.lib.rochester.edu/snapshot-aesthetics-and-the-strategic-imagination/)". _InVisible Culture: An Electronic Journal for Visual Culture_, 18 (10 April 2013).  
+"[Snapshot Aesthetics and the Strategic Imagination](http://ivc.lib.rochester.edu/snapshot-aesthetics-and-the-strategic-imagination/)". *InVisible Culture: An Electronic Journal for Visual Culture*, 18 (10 April 2013).
 
 ------------------------------------------------------------------------
 
