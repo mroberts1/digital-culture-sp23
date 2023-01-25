@@ -2,16 +2,24 @@ project:
   type: website
 
 website:
-  title: ""
+  title: "VM303-01 Studies in Digital Media & Culture"
   navbar:
     background: "#62259d"
     search: false
     right:
-      - text: "Home"
-        file: index.qmd
-      - text: "Lectures"
+      - text: "lectures"
         menu: 
           - lectures/lurking.qmd
+      - icon: envelope
+        href: mailto:martin_roberts@emerson.edu
+      - icon: twitter
+        href: https://twitter.com/mroberts_VMA
+      - icon: github
+        href: https://github.com/mroberts1
+      - icon: mastodon
+        aria-label: mastodon
+        href: https://merveilles.town/@dokoissho
+
 format:
   html:
     toc: true  
@@ -30,8 +38,6 @@ format:
     geometry:
     - top=30mm
     - left=30mm 
-margin-header: | 
-    ![](img/Purple-Restricted-Flourish-400px.png){size="50%"}
 page-layout: article
 docx: default
 fig-responsive: true

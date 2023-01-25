@@ -3,8 +3,6 @@ title: ""
 embed-resources: false
 ---
 
-## VM303-01 Studies in Digital Media & Culture
-
 [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
 [Emerson College](https://emerson.edu/)\
 Spring Semester 2023\
@@ -13,7 +11,6 @@ Class location: Ansin 605\
 Instructor: [Dr. Martin Roberts](http://mroberts.emerson.build/)\
 Office hours: Thur 3:00-5:00 p.m.\
 Office location: Ansin, 9th floor\
-Email: [martin_roberts\@emerson.edu](mailto:martin_roberts@emerson.edu)
 
 [YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF) \| [Syllabus](https://mroberts1.github.io/digital-culture-sp23/) (outside Canvas)\
 
