@@ -2,17 +2,23 @@
 title: ""
 embed-resources: false
 ---
+<br />
+
+::: {layout="[[49, -2, 49]]"}
+[![](img/dudewithsign.jpg){width=50%}](https://instagram.com/dudewithsign/)
 
 [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
 [Emerson College](https://emerson.edu/)\
 Spring Semester 2023\
-Class meetings: Tues/Thur 17 January---4 May 2023 6:00-7:45 p.m.\
-Class location: Ansin 605\
-Instructor: [Dr. Martin Roberts](http://mroberts.emerson.build/)\
-Office hours: Thur 3:00-5:00 p.m.\
-Office location: Ansin, 9th floor\
-
+Tues/Thur 17 January---4 May 2023 6:00-7:45 p.m.\
+Ansin 605\
+[Dr. Martin Roberts](http://mroberts.emerson.build/)\
+Office hrs: Thur 3:00-5:00 p.m.\
+Office: Ansin, 9th floor\
 [YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF) \| [Syllabus](https://mroberts1.github.io/digital-culture-sp23/) (outside Canvas)\
+:::
+
+
 
 ### Overview
 
