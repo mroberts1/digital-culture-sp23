@@ -5,7 +5,8 @@ embed-resources: false
 <br />
 
 ::: {layout="[[49, -2, 49]]"}
-[![](img/dudewithsign.jpg){width=50%}](https://instagram.com/dudewithsign/)
+
+[![](img/dudewithsign.jpg){fig-alt="Link to page of Instagram artist Seth aka dudewithsign"}](https://instagram.com/dudewithsign/)
 
 [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
 [Emerson College](https://emerson.edu/)\
@@ -27,6 +28,10 @@ This course considers the nature and contemporary forms of digital culture. Broa
 A key component of the course is the automation of various forms of creative production, from writing to the visual arts, by natural-language processing computational systems (generally referred to as "artificial intelligence" or "AI"). The course addresses some of the many issues raised by such systems, with a particular focus on questions of aesthetics and the increasingly contested relationship between artists and algorithms. While such systems now demonstrably pass the Turing Test (i.e. pass as human or their products as human-produced), they also compel us to reconsider what we mean by "art," or "intelligence" itself.
 
 A major theme of the course is the changing status of the **future** as a social imaginary. It has been suggested that while we live today in the futures imagined by writers and filmmakers since George Orwell's novel *1984* (1949) and films like *2001: A Space Odyssey* (1968), *Blade Runner* (1982, set in 2019 and later 2049), or *Soylent Green* (1973, set in 2022), postmodern society has become so absorbed in commemorating its own past that it has become incapable of imagining its own future, dystopian or otherwise. As the course shows, historical projections of the future (often referred to as "retrofutures") have paradoxically themselves become objects of postmodernist nostalgia.
+
+### ChatGPT summary
+
+This course examines the diverse range of cultural practices that use digital media and technology in a globally networked society. It also focuses on the automation of creative production by artificial intelligence systems and the implications that has on the meaning of art and intelligence. The passage also notes that the course will examine the changing perception of the future as a social imaginary, and how society's focus on the past has affected our ability to imagine the future.
 
 ### Format
 

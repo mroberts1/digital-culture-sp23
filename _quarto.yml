@@ -2,15 +2,15 @@ project:
   type: website
 
 website:
-  title: "VM303-01 Studies in Digital Media & Culture"
-  favicon: /img/Emerson-Flourish-Cropping-Vertical-600px.png
+  title: "   VM303-01 Studies in Digital Media & Culture"
   navbar:
     background: "#62259d"
     search: true
-    right:
-      - text: "lectures"
+    left:
+      - text: "Pages"
         menu: 
-          - lectures/lurking.qmd
+          - pages/lurking.qmd
+    right:
       - icon: envelope
         href: mailto:martin_roberts@emerson.edu
       - icon: mastodon
