@@ -1,10 +1,12 @@
 ---
 title: "W3: Alternate Timelines"
 format-links: false
+page-layout: full
 embed-resources: false
+toc: false
 ---
 
-::: {layout="[[24, -1, 24, -1, 24, -1, 24]]"}
+::: {.column-screen-inset layout="[[24, -1, 24, -1, 24, -1, 24]]"}
 
 ![](../img/tumblrporn.gif)
 
@@ -26,7 +28,7 @@ Kaitlyn Tiffany, “[You Probably Don’t Remember The Internet](https://canvas.
 
 ---
 
-[![](../img/kaitlyn-tiffany.jpeg){width="50%" fig-align="left"}](https://us.macmillan.com/books/9780374539184/everythingineedigetfromyou)
+[![](../img/kaitlyn-tiffany.jpeg){width="60%" fig-align="left"}](https://us.macmillan.com/books/9780374539184/everythingineedigetfromyou)
 
 ---
 
