@@ -1,0 +1,52 @@
+---
+title: "W3: Alternate Timelines"
+format-links: false
+embed-resources: false
+---
+
+::: {layout="[[24, -1, 24, -1, 24, -1, 24]]"}
+
+![](../img/tumblrporn.gif)
+
+![](../img/toriamos.gif)
+
+![](../img/googleglass.gif)
+
+![](../img/myspacescenequeens.gif)
+
+:::
+
+Kaitlyn Tiffany, “[You Probably Don’t Remember The Internet](https://canvas.emerson.edu/courses/1932613/files/145219877?wrap=1 "'Remember the Internet'_ An Encyclopedia of Online Life - The Atlantic.pdf")”
+
+-   Ana Valens, [_Tumblr Porn_](http://www.instarbooks.com/books/tumblr-porn.html)
+-   Megan Milks, [_Tori Amos Bootleg Webring_](http://www.instarbooks.com/books/tori-amos-bootleg-webring.html)
+-   Quinn Myers, [_Google Glass_](http://www.instarbooks.com/books/google-glass.html)
+
+[YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF)
+
+---
+
+[![](../img/kaitlyn-tiffany.jpeg){width="50%" fig-align="left"}](https://us.macmillan.com/books/9780374539184/everythingineedigetfromyou)
+
+---
+
+### Maciej Cegłowski
+
+[Maciej Cegłowski](https://idlewords.com/about.htm), "[Fan Is A Tool-Using Animal](https://idlewords.com/talks/fan_is_a_tool_using_animal.htm)"
+
+[Pinboard](http://pinboard.in/)
+
+[Haunted by Data](https://idlewords.com/talks/haunted_by_data.htm)  (2015 talk, 20 mins.)
+
+---
+
+### Google Glass
+
+{{< video https://youtu.be/9c6W4CCU9M4 >}}
+{{< video https://youtu.be/_mRF0rBXIeg >}}
+{{< video https://youtu.be/D7TB8b2t3QE >}}
+{{< video https://vimeo.com/46304267 >}}
+
+[![](../img/insight.png){fig-align="left"}](https://www.explainxkcd.com/wiki/index.php/Category:Google_Glass)
+
+---

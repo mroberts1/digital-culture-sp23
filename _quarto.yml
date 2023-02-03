@@ -2,14 +2,20 @@ project:
   type: website
 
 website:
-  title: "   VM303-01 Studies in Digital Media & Culture"
+  title: " "
   navbar:
     background: "#62259d"
     search: true
     left:
-      - text: "Pages"
+      - icon: home
+        href: index.qmd
+      - text: "Modules"
         menu: 
-          - pages/lurking.qmd
+          - modules/w2-lurking.qmd
+          - modules/w3-timelines.qmd
+      - text: "Resources"
+        menu:
+          - resources/mastodon.qmd
     right:
       - icon: envelope
         href: mailto:martin_roberts@emerson.edu
@@ -33,7 +39,7 @@ format:
       light: ember.scss
       dark: slate
     css: custom.scss
-    fontsize: 1em
+    fontsize: 1.1em
     linestretch: 1.5
     smooth-scroll: true
     linkcolor: "#706258"
