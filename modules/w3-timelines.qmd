@@ -1,36 +1,31 @@
 ---
 title: "W3: Alternate Timelines"
+pdf-engine: pdflatex
 format-links: false
 page-layout: full
 embed-resources: false
 toc: false
 ---
 
-::: {.column-screen-inset layout="[[24, -1, 24, -1, 24, -1, 24]]"}
+::: {.column-page layout="[[24, -1, 24, -1, 24, -1, 24, 1]]"}
 
-![](../img/tumblrporn.gif)
+[![](../img/tumblrporn.jpeg)](http://www.instarbooks.com/books/tumblr-porn.html)
 
-![](../img/toriamos.gif)
+[![](../img/toriamos.jpeg)](http://www.instarbooks.com/books/tori-amos-bootleg-webring.html)
 
-![](../img/googleglass.gif)
+[![](../img/googleglass.jpeg)](http://www.instarbooks.com/books/google-glass.html)
 
-![](../img/myspacescenequeens.gif)
+[![](../img/myspacescenequeens.jpeg)](http://www.instarbooks.com/books/myspace-scene-queens.html)
 
 :::
 
-Kaitlyn Tiffany, “[You Probably Don’t Remember The Internet](https://canvas.emerson.edu/courses/1932613/files/145219877?wrap=1 "'Remember the Internet'_ An Encyclopedia of Online Life - The Atlantic.pdf")”
+Kaitlyn Tiffany, "[You Probably Don't Remember The Internet](https://canvas.emerson.edu/courses/1932613/files/145219877?wrap=1 "'Remember the Internet'_ An Encyclopedia of Online Life - The Atlantic.pdf")"
 
--   Ana Valens, [_Tumblr Porn_](http://www.instarbooks.com/books/tumblr-porn.html)
--   Megan Milks, [_Tori Amos Bootleg Webring_](http://www.instarbooks.com/books/tori-amos-bootleg-webring.html)
--   Quinn Myers, [_Google Glass_](http://www.instarbooks.com/books/google-glass.html)
-
-[YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF)
-
----
+------------------------------------------------------------------------
 
 [![](../img/kaitlyn-tiffany.jpeg){width="60%" fig-align="left"}](https://us.macmillan.com/books/9780374539184/everythingineedigetfromyou)
 
----
+------------------------------------------------------------------------
 
 ### Maciej Cegłowski
 
@@ -40,15 +35,12 @@ Kaitlyn Tiffany, “[You Probably Don’t Remember The Internet](https://canvas.
 
 [Haunted by Data](https://idlewords.com/talks/haunted_by_data.htm)  (2015 talk, 20 mins.)
 
----
+------------------------------------------------------------------------
 
 ### Google Glass
 
-{{< video https://youtu.be/9c6W4CCU9M4 >}}
-{{< video https://youtu.be/_mRF0rBXIeg >}}
-{{< video https://youtu.be/D7TB8b2t3QE >}}
-{{< video https://vimeo.com/46304267 >}}
+{{< video https://youtu.be/9c6W4CCU9M4 >}} {{< video https://youtu.be/_mRF0rBXIeg >}} {{< video https://youtu.be/D7TB8b2t3QE >}} {{< video https://vimeo.com/46304267 >}}
 
 [![](../img/insight.png){fig-align="left"}](https://www.explainxkcd.com/wiki/index.php/Category:Google_Glass)
 
----
+------------------------------------------------------------------------
