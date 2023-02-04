@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mroberts1/digital-culture-sp23/pages/robot-hologram.html</loc>
-    <lastmod>2023-02-03T16:22:01.484Z</lastmod>
+    <loc>https://mroberts1.github.io/digital-culture-sp23/resources/mastodon.html</loc>
+    <lastmod>2023-02-04T03:09:28.894Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/mroberts1/digital-culture-sp23/pages/lurking.html</loc>
-    <lastmod>2023-02-03T16:22:07.104Z</lastmod>
+    <loc>https://mroberts1.github.io/digital-culture-sp23/index.html</loc>
+    <lastmod>2023-02-04T03:09:36.912Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/mroberts1/digital-culture-sp23/index.html</loc>
-    <lastmod>2023-02-03T16:22:12.056Z</lastmod>
+    <loc>https://mroberts1.github.io/digital-culture-sp23/about.html</loc>
+    <lastmod>2023-02-04T03:09:44.582Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/mroberts1/digital-culture-sp23/about.html</loc>
-    <lastmod>2023-02-03T16:22:16.988Z</lastmod>
+    <loc>https://mroberts1.github.io/digital-culture-sp23/modules/robot-hologram.html</loc>
+    <lastmod>2023-02-04T03:09:51.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/digital-culture-sp23/modules/w2-lurking.html</loc>
+    <lastmod>2023-02-04T03:09:57.496Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/digital-culture-sp23/modules/w3-timelines.html</loc>
+    <lastmod>2023-02-04T03:10:03.984Z</lastmod>
   </url>
 </urlset>
