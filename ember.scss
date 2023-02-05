@@ -6,9 +6,21 @@ $theme: "litera" !default;
 // import google fonts
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap';
 @import 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap';
-
+@font-face {
+  font-family: 'Avenir Next';
+  src: url("fonts/AvenirNext-Regular.eot");
+  }
+@font-face {
+  font-family: 'Avenir Next';
+  src: url("fonts/AvenirNext-Regular.woff");
+  }
+@font-face {
+  font-family: 'Avenir Next';
+  src: url("fonts/AvenirNext-Regular.ttf");
+  }
+  
 // use Atkinson Hyperlegible font if available
-$font-family-sans-serif:      "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-sans-serif: "AvenirNext-Regular",      "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 /*-- scss:rules --*/
 

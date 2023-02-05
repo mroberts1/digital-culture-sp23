@@ -1,7 +1,5 @@
 ---
 title: "Mastodon: Quickstart"
-format-links: false
-embed-resources: false
 ---
 
 For a quick intro, watch this video:

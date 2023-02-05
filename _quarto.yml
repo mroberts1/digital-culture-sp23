@@ -2,13 +2,16 @@ project:
   type: website
 
 website:
-  title: " "
+  title: "  "
+  favicon: "/img/cropped-cropped-flourish-1-270x270.gif"
+  margin-header: |
+    ![](/img/CollegeLockupStacked.jpg)
   navbar:
     background: "#62259d"
     search: true
     left:
-      - icon: home
-        href: index.qmd
+      - text: Home
+        file: index.qmd
       - text: "Modules"
         menu: 
           - modules/w2-lurking.qmd
@@ -28,30 +31,31 @@ website:
         href: https://facebook.com/mr05301
       - icon: twitter
         href: https://twitter.com/mroberts_VMA
-
-format:
+format: 
   html:
-    toc: true  
+    toc: true
     toc-depth: 3  
-    toc-location: left
-    toc-title: ' '
+    toc-location: right
+    toc-title: '   '
     theme: 
       light: ember.scss
       dark: slate
     css: custom.scss
-    fontsize: 1.1em
+    fontsize: 1em
     linestretch: 1.5
     smooth-scroll: true
-    linkcolor: "#706258"
+    linkcolor: "#62259d"
+    page-layout: article
   pdf:
     geometry:
-    - top=30mm
-    - left=30mm 
-page-layout: article
-docx: default
+      - top=30mm
+      - left=30mm
+      - heightrounded
+    mainfont: "Optima"
+    linestretch: 1.2
+    papersize: letter
+    colorlinks: true
 fig-responsive: true
-link-external-newwindow: false
-embed-resources: false
-editor: visual
 execute:
-  freeze: auto
+  echo: false
+  editor: visual

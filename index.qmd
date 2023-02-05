@@ -1,11 +1,11 @@
 ---
 title: ""
-embed-resources: false
 ---
 
 ## VM303-01 Studies in Digital Media & Culture
 
 ::: {layout="[[49, -2, 49]]"}
+
 [![](img/dudewithsign.jpg){fig-alt="Link to page of Instagram artist Seth aka dudewithsign"}](https://instagram.com/dudewithsign/)
 
 [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
@@ -17,6 +17,7 @@ Ansin 605\
 Office hrs: Thur 3:00-5:00 p.m.\
 Office: Ansin 915C\
 [YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF) \| [Syllabus](https://mroberts1.github.io/digital-culture-sp23/) (outside Canvas)\
+
 :::
 
 ------------------------------------------------------------------------
@@ -422,38 +423,38 @@ Narr, Greg, and Anh Luong, "Bored ghosts in the dating app assemblage: How datin
 
 #### Academic Honesty
 
-It is the responsibility of all Emerson students to know and adhere to the College’s policy on plagiarism, which can be found at [emerson.edu/policies/plagiarism](https://emerson.edu/policies/plagiarism "Plagiarism"). If you have any question concerning the Emerson plagiarism policy or about documentation of sources in work you produce in this course, speak to your instructor.
+It is the responsibility of all Emerson students to know and adhere to the College's policy on plagiarism, which can be found at [emerson.edu/policies/plagiarism](https://emerson.edu/policies/plagiarism "Plagiarism"). If you have any question concerning the Emerson plagiarism policy or about documentation of sources in work you produce in this course, speak to your instructor.
 
----
+------------------------------------------------------------------------
 
 #### Diversity
 
-Every student in this class will be honored and respected as an individual with distinct experiences, talents, and backgrounds. Issues of diversity may be a part of class discussion, assigned material, and projects. The instructor will make every effort to ensure that an inclusive environment exists for all students. If you have any concerns or suggestions for improving the classroom climate, please do not hesitate to speak with the course instructor or to contact the Social Justice Center at 617-824-8528 or by email at [sjc@emerson.edu](mailto:sjc@emerson.edu).
+Every student in this class will be honored and respected as an individual with distinct experiences, talents, and backgrounds. Issues of diversity may be a part of class discussion, assigned material, and projects. The instructor will make every effort to ensure that an inclusive environment exists for all students. If you have any concerns or suggestions for improving the classroom climate, please do not hesitate to speak with the course instructor or to contact the Social Justice Center at 617-824-8528 or by email at [sjc\@emerson.edu](mailto:sjc@emerson.edu).
 
----
+------------------------------------------------------------------------
 
 #### Discrimination, Harassment, or Sexual Violence
 
-If you have been impacted by discrimination, harassment, or sexual violence, I am available to support you, and help direct you to available resources on and off campus. Additionally, the Office of Equal Opportunity ([oeo@emerson.edu](mailto:oeo@emerson.edu "Email the Office of Equal Opportunity"); 617-824-8999) is available to meet with you and discuss options to address concerns and to provide you with support resources. Please note that I because I am an Emerson employee, any information shared with me related to discrimination, harassment, or sexual violence will also be shared with the Office of Equal Opportunity.  If you would like to speak with someone confidentially, please contact the Healing & Advocacy Collective, the Emerson Wellness Center, or the Center for Spiritual Life.
+If you have been impacted by discrimination, harassment, or sexual violence, I am available to support you, and help direct you to available resources on and off campus. Additionally, the Office of Equal Opportunity ([oeo\@emerson.edu](mailto:oeo@emerson.edu "Email the Office of Equal Opportunity"); 617-824-8999) is available to meet with you and discuss options to address concerns and to provide you with support resources. Please note that I because I am an Emerson employee, any information shared with me related to discrimination, harassment, or sexual violence will also be shared with the Office of Equal Opportunity.  If you would like to speak with someone confidentially, please contact the Healing & Advocacy Collective, the Emerson Wellness Center, or the Center for Spiritual Life.
 
----
+------------------------------------------------------------------------
 
 #### Accessibility
 
-Emerson is committed to providing equal access and support to all students who qualify through the provision of reasonable accommodations, so that each student may fully participate in the Emerson experience. If you have a disability that may require accommodations, please contact Student Accessibility Services (SAS) at [SAS@emerson.edu](mailto:SAS@emerson.edu) or 617-824-8592 to make an appointment with an SAS staff member.
+Emerson is committed to providing equal access and support to all students who qualify through the provision of reasonable accommodations, so that each student may fully participate in the Emerson experience. If you have a disability that may require accommodations, please contact Student Accessibility Services (SAS) at [SAS\@emerson.edu](mailto:SAS@emerson.edu) or 617-824-8592 to make an appointment with an SAS staff member.
 
 Students are encouraged to contact SAS early in the semester. Please be aware that accommodations are not applied retroactively.
 
----
+------------------------------------------------------------------------
 
 #### Writing & Academic Resource Center
 
-Students are encouraged to visit and utilize the staff and resources of Emerson’s Writing Center, particularly if they are struggling with written assignments. The Writing Center is located at 216 Tremont Street on the 5th floor (tel. 617-824-7874).
+Students are encouraged to visit and utilize the staff and resources of Emerson's Writing Center, particularly if they are struggling with written assignments. The Writing Center is located at 216 Tremont Street on the 5th floor (tel. 617-824-7874).
 
----
+------------------------------------------------------------------------
 
 #### In-Class Recording
 
-Regardless of modality or whether this course is being recorded by the College with the permission of the students for classroom purposes, this class is considered a private environment and it is a setting in which copyrighted materials, creative works and educational records may be displayed. Audio or video recording, filming, photographing, viewing, transmitting, producing or publishing the image or voice of another person or that person’s materials, creative works or educational records without the person’s knowledge and expressed consent is strictly prohibited. 
+Regardless of modality or whether this course is being recorded by the College with the permission of the students for classroom purposes, this class is considered a private environment and it is a setting in which copyrighted materials, creative works and educational records may be displayed. Audio or video recording, filming, photographing, viewing, transmitting, producing or publishing the image or voice of another person or that person's materials, creative works or educational records without the person's knowledge and expressed consent is strictly prohibited. 
 
----
+------------------------------------------------------------------------

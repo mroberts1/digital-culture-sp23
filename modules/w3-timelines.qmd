@@ -1,14 +1,9 @@
 ---
 title: "W3: Alternate Timelines"
-pdf-engine: pdflatex
-format-links: false
-page-layout: full
-embed-resources: false
 toc: false
 ---
 
 ::: {.column-page layout="[[24, -1, 24, -1, 24, -1, 24, 1]]"}
-
 [![](../img/tumblrporn.jpeg)](http://www.instarbooks.com/books/tumblr-porn.html)
 
 [![](../img/toriamos.jpeg)](http://www.instarbooks.com/books/tori-amos-bootleg-webring.html)
@@ -16,7 +11,6 @@ toc: false
 [![](../img/googleglass.jpeg)](http://www.instarbooks.com/books/google-glass.html)
 
 [![](../img/myspacescenequeens.jpeg)](http://www.instarbooks.com/books/myspace-scene-queens.html)
-
 :::
 
 Kaitlyn Tiffany, "[You Probably Don't Remember The Internet](https://canvas.emerson.edu/courses/1932613/files/145219877?wrap=1 "'Remember the Internet'_ An Encyclopedia of Online Life - The Atlantic.pdf")"
