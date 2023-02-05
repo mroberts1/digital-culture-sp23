@@ -12,3 +12,5 @@
 README.html
 /.quarto/
 /_site/
+
+/.luarc.json
