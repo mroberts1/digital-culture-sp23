@@ -3,6 +3,9 @@
 // use litera as the base
 $theme: "litera" !default;
 
+// import adobe font-family
+@import 'https://use.typekit.net/qto7ueh.css?family=Proxima+Nova+Regular@display=swap';
+
 // import google fonts
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap';
 @import 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap';
@@ -18,9 +21,9 @@ $theme: "litera" !default;
   font-family: 'Avenir Next';
   src: url("fonts/AvenirNext-Regular.ttf");
   }
-  
+
 // use Atkinson Hyperlegible font if available
-$font-family-sans-serif: "AvenirNext-Regular",      "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-sans-serif: proxima-nova, "AvenirNext-Regular", "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 /*-- scss:rules --*/
 
