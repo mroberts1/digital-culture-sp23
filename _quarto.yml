@@ -26,10 +26,13 @@ website:
         aria-label: mastodon
         href: https://merveilles.town/@dokoissho
       - icon: github
+        aria-label: github
         href: https://github.com/mroberts1
       - icon: facebook
+        aria-label: facebook
         href: https://facebook.com/mr05301
       - icon: twitter
+        aria-label: twitter
         href: https://twitter.com/mroberts_VMA
 format: 
   html:
@@ -56,6 +59,7 @@ format:
     papersize: letter
     colorlinks: true
 fig-responsive: true
+image-alt: " "
 execute:
   echo: false
   editor: visual
