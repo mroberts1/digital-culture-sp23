@@ -56,12 +56,12 @@ format:
       - top=30mm
       - left=30mm
       - heightrounded
-    mainfont: "Optima"
     linestretch: 1.2
     papersize: letter
     colorlinks: true
 fig-responsive: true
 image-alt: " "
+format-links: false
 execute:
   echo: false
   editor: visual

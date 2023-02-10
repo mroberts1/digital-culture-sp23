@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.2.10)  10 FEB 2023 01:51
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.2.10)  10 FEB 2023 10:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -273,86 +273,7 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 \g__um_fonts_used_int=\count284
 \l__um_primecount_int=\count285
 \g__um_primekern_muskip=\muskip17
-(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
-
-Package fontspec Info: Optima scale = 0.9050538273136675.
-
-
-Package fontspec Info: Optima scale = 0.9050538273136675.
-
-
-Package fontspec Info: Optima/B scale = 0.8919901022650586.
-
-
-Package fontspec Info: Optima/I scale = 0.9126893727020025.
-
-
-Package fontspec Info: Optima/BI scale = 0.8994085249181415.
-
-
-Package fontspec Info: Font family 'Optima(0)' created for font 'Optima' with
-(fontspec)             options [Scale=MatchLowercase,Ligatures=TeX,Scale=1].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"Optima/AAT:mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"Optima/B/AAT:mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"Optima/I/AAT:mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"Optima/BI/AAT:mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
-
-LaTeX Font Info:    Font shape `TU/Optima(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 24.
-
-Package fontspec Info: Optima scale = 0.9999970738073571.
-
-
-Package fontspec Info: Optima scale = 0.9999970738073571.
-
-
-Package fontspec Info: Optima/B scale = 0.9855629192550166.
-
-
-Package fontspec Info: Optima/I scale = 1.008433614060351.
-
-
-Package fontspec Info: Optima/BI scale = 0.9937595598541377.
-
-
-Package fontspec Info: Font family 'Optima(1)' created for font 'Optima' with
-(fontspec)             options [Scale=MatchLowercase].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9999970738073571]"Optima/AAT"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9855629192550166]"Optima/B/AAT"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1.008433614060351]"Optima/I/AAT"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.9937595598541377]"Optima/BI/AAT"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
-
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/Optima(1)/m/n on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/Optima(1)/m/it on input line 24.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/Optima(1)/b/n on input line 24.
-(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
@@ -438,7 +359,7 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@chunks=\count296
 \LT@p@ftn=\toks24
 )
-Class scrartcl Info: longtable captions redefined on input line 58.
+Class scrartcl Info: longtable captions redefined on input line 57.
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen163
@@ -882,55 +803,61 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
 \BKM@id=\count353
 ))
-Package hyperref Info: Option `colorlinks' set `true' on input line 146.
+Package hyperref Info: Option `colorlinks' set `true' on input line 145.
 No file w4-afrofuturism.aux.
 \openout1 = `w4-afrofuturism.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-Package scrbase Info: activating english \abstractname on input line 152.
-Package scrbase Info: activating english \partname on input line 152.
-Package scrbase Info: activating english \figurename on input line 152.
-Package scrbase Info: activating english \tablename on input line 152.
-Package scrbase Info: activating english \contentsname on input line 152.
-Package scrbase Info: activating english \listfigurename on input line 152.
-Package scrbase Info: activating english \listtablename on input line 152.
-Package scrbase Info: activating english \refname on input line 152.
-Package scrbase Info: activating english \indexname on input line 152.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+Package scrbase Info: activating english \abstractname on input line 151.
+Package scrbase Info: activating english \partname on input line 151.
+Package scrbase Info: activating english \figurename on input line 151.
+Package scrbase Info: activating english \tablename on input line 151.
+Package scrbase Info: activating english \contentsname on input line 151.
+Package scrbase Info: activating english \listfigurename on input line 151.
+Package scrbase Info: activating english \listtablename on input line 151.
+Package scrbase Info: activating english \refname on input line 151.
+Package scrbase Info: activating english \indexname on input line 151.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 151.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 151.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 152.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/b/n on input line 152.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 152.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 151.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/b/n on input line 152.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 151.
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
-
-
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
 Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
@@ -941,28 +868,28 @@ Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.104899852891253]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[0.9999967668407183]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.104899852891253]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[0.9999967668407183]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 12.0987pt on input line 152.
+(Font)              scaled to size 10.95pt on input line 151.
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
-
-
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
 Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
@@ -973,494 +900,187 @@ Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.3075->s*[1.104899852891253]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6.57-9.3075>s*[1.104899852891253]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[1.104899852891253]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <9.3075->s*[0.9999967668407183]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6.57-9.3075>s*[0.9999967668407183]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[0.9999967668407183]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.104899852891253]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[0.9999967668407183]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0987pt on input line 152.
+(Font)              scaled to size 10.95pt on input line 151.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 152.
+(Font)              `operators' in the math version `normal' on input line 151.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 152.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 151.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 152.
+(Font)              `operators' in the math version `bold' on input line 151.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 152.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 151.
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
-
-
-Package fontspec Info: latinmodern-math scale = 1.105010342876542.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 1.000096766517402.
 
 
-Package fontspec Info: latinmodern-math scale = 1.105010342876542.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 1.000096766517402.
 
 
-Package fontspec Info: latinmodern-math scale = 1.105010342876542.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 1.000096766517402.
 
 
-Package fontspec Info: latinmodern-math scale = 1.105010342876542.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 1.000096766517402.
 
 
-Package fontspec Info: latinmodern-math scale = 1.105010342876542.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096766517402.
 
 
 Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\fontdimen
-(fontspec)             8\font =8.19081pt\relax \fontdimen 9\font
-(fontspec)             =4.76689pt\relax \fontdimen 10\font =5.37183pt\relax
-(fontspec)             \fontdimen 11\font =8.2997pt\relax \fontdimen 12\font
-(fontspec)             =4.17406pt\relax \fontdimen 13\font =4.39183pt\relax
-(fontspec)             \fontdimen 14\font =4.39183pt\relax \fontdimen 15\font
-(fontspec)             =3.49652pt\relax \fontdimen 16\font =2.98837pt\relax
-(fontspec)             \fontdimen 17\font =2.98837pt\relax \fontdimen 18\font
-(fontspec)             =3.02467pt\relax \fontdimen 19\font =2.41974pt\relax
-(fontspec)             \fontdimen 22\font =3.02467pt\relax \fontdimen 20\font
+(fontspec)             8\font =7.41315pt\relax \fontdimen 9\font
+(fontspec)             =4.3143pt\relax \fontdimen 10\font =4.8618pt\relax
+(fontspec)             \fontdimen 11\font =7.5117pt\relax \fontdimen 12\font
+(fontspec)             =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax
+(fontspec)             \fontdimen 14\font =3.97485pt\relax \fontdimen 15\font
+(fontspec)             =3.16455pt\relax \fontdimen 16\font =2.70465pt\relax
+(fontspec)             \fontdimen 17\font =2.70465pt\relax \fontdimen 18\font
+(fontspec)             =2.7375pt\relax \fontdimen 19\font =2.19pt\relax
+(fontspec)             \fontdimen 22\font =2.7375pt\relax \fontdimen 20\font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.3075->s*[1.105010342876542]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6.57-9.3075>s*[1.105010342876542]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[1.105010342876542]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <9.3075->s*[1.000096766517402]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6.57-9.3075>s*[1.000096766517402]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[1.000096766517402]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =8.19081pt\relax \fontdimen 9\font
-(fontspec)             =4.76689pt\relax \fontdimen 10\font =5.37183pt\relax
-(fontspec)             \fontdimen 11\font =8.2997pt\relax \fontdimen 12\font
-(fontspec)             =4.17406pt\relax \fontdimen 13\font =4.39183pt\relax
-(fontspec)             \fontdimen 14\font =4.39183pt\relax \fontdimen 15\font
-(fontspec)             =3.49652pt\relax \fontdimen 16\font =2.98837pt\relax
-(fontspec)             \fontdimen 17\font =2.98837pt\relax \fontdimen 18\font
-(fontspec)             =3.02467pt\relax \fontdimen 19\font =2.41974pt\relax
-(fontspec)             \fontdimen 22\font =3.02467pt\relax \fontdimen 20\font
+(fontspec)             \fontdimen 8\font =7.41315pt\relax \fontdimen 9\font
+(fontspec)             =4.3143pt\relax \fontdimen 10\font =4.8618pt\relax
+(fontspec)             \fontdimen 11\font =7.5117pt\relax \fontdimen 12\font
+(fontspec)             =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax
+(fontspec)             \fontdimen 14\font =3.97485pt\relax \fontdimen 15\font
+(fontspec)             =3.16455pt\relax \fontdimen 16\font =2.70465pt\relax
+(fontspec)             \fontdimen 17\font =2.70465pt\relax \fontdimen 18\font
+(fontspec)             =2.7375pt\relax \fontdimen 19\font =2.19pt\relax
+(fontspec)             \fontdimen 22\font =2.7375pt\relax \fontdimen 20\font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.105010342876542]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[1.000096766517402]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =8.19081pt\relax \fontdimen 9\font
-(fontspec)             =4.76689pt\relax \fontdimen 10\font =5.37183pt\relax
-(fontspec)             \fontdimen 11\font =8.2997pt\relax \fontdimen 12\font
-(fontspec)             =4.17406pt\relax \fontdimen 13\font =4.39183pt\relax
-(fontspec)             \fontdimen 14\font =4.39183pt\relax \fontdimen 15\font
-(fontspec)             =3.49652pt\relax \fontdimen 16\font =2.98837pt\relax
-(fontspec)             \fontdimen 17\font =2.98837pt\relax \fontdimen 18\font
-(fontspec)             =3.02467pt\relax \fontdimen 19\font =2.41974pt\relax
-(fontspec)             \fontdimen 22\font =3.02467pt\relax \fontdimen 20\font
+(fontspec)             \fontdimen 8\font =7.41315pt\relax \fontdimen 9\font
+(fontspec)             =4.3143pt\relax \fontdimen 10\font =4.8618pt\relax
+(fontspec)             \fontdimen 11\font =7.5117pt\relax \fontdimen 12\font
+(fontspec)             =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax
+(fontspec)             \fontdimen 14\font =3.97485pt\relax \fontdimen 15\font
+(fontspec)             =3.16455pt\relax \fontdimen 16\font =2.70465pt\relax
+(fontspec)             \fontdimen 17\font =2.70465pt\relax \fontdimen 18\font
+(fontspec)             =2.7375pt\relax \fontdimen 19\font =2.19pt\relax
+(fontspec)             \fontdimen 22\font =2.7375pt\relax \fontdimen 20\font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 152.
+(Font)              `symbols' in the math version `normal' on input line 151.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 152.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 151.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 152.
+(Font)              `symbols' in the math version `bold' on input line 151.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 152.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 151.
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
-
-
-Package fontspec Info: latinmodern-math scale = 1.104789362905964.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9998967671640342.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104789362905964.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9998967671640342.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104789362905964.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9998967671640342.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104789362905964.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104899852891253.
+Package fontspec Info: latinmodern-math scale = 0.9998967671640342.
 
 
-Package fontspec Info: latinmodern-math scale = 1.104789362905964.
+Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998967671640342.
 
 
 Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\fontdimen
-(fontspec)             8\font =0.48395pt\relax \fontdimen 9\font
-(fontspec)             =2.41974pt\relax \fontdimen 10\font =2.02048pt\relax
-(fontspec)             \fontdimen 11\font =1.34296pt\relax \fontdimen 12\font
-(fontspec)             =7.25922pt\relax \fontdimen 13\font =0pt\relax }].
+(fontspec)             8\font =0.438pt\relax \fontdimen 9\font =2.19pt\relax
+(fontspec)             \fontdimen 10\font =1.82864pt\relax \fontdimen 11\font
+(fontspec)             =1.21545pt\relax \fontdimen 12\font =6.56999pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.3075->s*[1.104789362905964]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6.57-9.3075>s*[1.104789362905964]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[1.104789362905964]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <9.3075->s*[0.9998967671640342]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6.57-9.3075>s*[0.9998967671640342]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[0.9998967671640342]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.48395pt\relax \fontdimen 9\font
-(fontspec)             =2.41974pt\relax \fontdimen 10\font =2.02048pt\relax
-(fontspec)             \fontdimen 11\font =1.34296pt\relax \fontdimen 12\font
-(fontspec)             =7.25922pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             \fontdimen 8\font =0.438pt\relax \fontdimen 9\font
+(fontspec)             =2.19pt\relax \fontdimen 10\font =1.82864pt\relax
+(fontspec)             \fontdimen 11\font =1.21545pt\relax \fontdimen 12\font
+(fontspec)             =6.56999pt\relax \fontdimen 13\font =0pt\relax 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.104789362905964]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[0.9998967671640342]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.48395pt\relax \fontdimen 9\font
-(fontspec)             =2.41974pt\relax \fontdimen 10\font =2.02048pt\relax
-(fontspec)             \fontdimen 11\font =1.34296pt\relax \fontdimen 12\font
-(fontspec)             =7.25922pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             \fontdimen 8\font =0.438pt\relax \fontdimen 9\font
+(fontspec)             =2.19pt\relax \fontdimen 10\font =1.82864pt\relax
+(fontspec)             \fontdimen 11\font =1.21545pt\relax \fontdimen 12\font
+(fontspec)             =6.56999pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 152.
+(Font)              `largesymbols' in the math version `normal' on input line 151.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 152.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 151.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 152.
+(Font)              `largesymbols' in the math version `bold' on input line 151.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 152.
-LaTeX Info: Redefining \microtypecontext on input line 152.
-Package microtype Info: Applying patch `item' on input line 152.
-Package microtype Info: Applying patch `toc' on input line 152.
-Package microtype Info: Applying patch `eqnum' on input line 152.
-Package microtype Info: Applying patch `footnote' on input line 152.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 151.
+LaTeX Info: Redefining \microtypecontext on input line 151.
+Package microtype Info: Applying patch `item' on input line 151.
+Package microtype Info: Applying patch `toc' on input line 151.
+Package microtype Info: Applying patch `eqnum' on input line 151.
+Package microtype Info: Applying patch `footnote' on input line 151.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `Optima' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\k A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\k a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'C'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v C'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'c'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v c'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v D'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v d'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-Package microtype Info: Character `\dj ' is missing
-(microtype)             in font `\TU/Optima(0)/m/n/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\k E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\k e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u G'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u g'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\.I'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-Package microtype Info: Character `\i ' is missing
-(microtype)             in font `\TU/Optima(0)/m/n/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\L ' is missing
-(microtype)             in font `\TU/Optima(0)/m/n/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'L'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v L'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-Package microtype Info: Character `\l ' is missing
-(microtype)             in font `\TU/Optima(0)/m/n/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'l'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v l'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'N'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v N'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'n'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v n'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H O'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H o'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'R'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v R'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'r'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v r'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'S'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c S'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'s'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c s'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c T'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v T'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c t'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v t'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\r U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\r u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'Z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\.Z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v Z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\.z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v z'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/411(protrusion)'.
-
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Modern Roman (RS)
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1499,7 +1119,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 152.
+Package hyperref Info: Link coloring ON on input line 151.
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
@@ -1507,48 +1127,44 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TU/Optima(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 154.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 15.9106pt on input line 154.
+(Font)              scaled to size 14.4pt on input line 153.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 11.04904pt on input line 154.
+(Font)              scaled to size 10.0pt on input line 153.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.73433pt on input line 154.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 154.
+(Font)              scaled to size 7.0pt on input line 153.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 153.
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 15.91214pt on input line 154.
+(Font)              scaled to size 14.4013pt on input line 153.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 11.05011pt on input line 154.
+(Font)              scaled to size 10.00092pt on input line 153.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.73508pt on input line 154.
+(Font)              scaled to size 7.00064pt on input line 153.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 15.90884pt on input line 154.
+(Font)              scaled to size 14.39845pt on input line 153.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.04782pt on input line 154.
+(Font)              scaled to size 9.99893pt on input line 153.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.73347pt on input line 154.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 154.
+(Font)              scaled to size 6.99925pt on input line 153.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 153.
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 154.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 153.
 (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Font shape `TU/Optima(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 172.
 File: ../img/angelus-novus.jpg Graphic file (type bmp)
 <../img/angelus-novus.jpg>
 
-Overfull \hbox (6.08485pt too wide) in paragraph at lines 193--198
+Overfull \hbox (7.28935pt too wide) in paragraph at lines 192--197
  [][] 
  []
 
@@ -1556,20 +1172,18 @@ Overfull \hbox (6.08485pt too wide) in paragraph at lines 193--198
 
 
 ] [2]
-LaTeX Font Info:    Font shape `TU/Optima(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 263.
 ! Unable to load picture or PDF file 'w4-afrofuturism_files/mediabag/preview.pdf'.
 <to be read again> 
                    }
-l.297 ...afrofuturism_files/mediabag/preview.pdf}}
+l.296 ...afrofuturism_files/mediabag/preview.pdf}}
                                                   ~~ 
 Here is how much of TeX's memory you used:
- 37615 strings out of 478667
- 791525 string characters out of 5847080
- 1858007 words of memory out of 5000000
- 57193 multiletter control sequences out of 15000+600000
- 515947 words of font info for 73 fonts, out of 8000000 for 9000
+ 37640 strings out of 478667
+ 793803 string characters out of 5847080
+ 1857007 words of memory out of 5000000
+ 57219 multiletter control sequences out of 15000+600000
+ 515859 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 108i,7n,122p,10610b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,7n,121p,10610b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on w4-afrofuturism.pdf (2 pages).
