@@ -16,6 +16,7 @@ website:
         menu: 
           - modules/w2-lurking.qmd
           - modules/w3-timelines.qmd
+          - modules/w4-afrofuturism.qmd
       - text: "Resources"
         menu:
           - resources/mastodon.qmd
@@ -45,7 +46,7 @@ format:
       light: ember.scss
       dark: slate
     css: custom.scss
-    fontsize: 1em
+    fontsize: 1.1em
     linestretch: 1.5
     smooth-scroll: true
     linkcolor: "#62259d"
