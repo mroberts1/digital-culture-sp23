@@ -1,6 +1,7 @@
 ---
 title: "W2: Lurking"
 toc: false
+format-links: false
 ---
 
 ### What We Do In The Shadows: Lurking and Social Media

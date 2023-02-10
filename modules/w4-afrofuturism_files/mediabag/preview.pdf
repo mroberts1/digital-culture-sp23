@@ -10,18 +10,18 @@
 <body>
 <div
 id="login-parent"
-data-authkey="ASNSXIM03HE4CJ32X5FN"
-data-aid="1fe6f1f83cd44e5891df545efc8b19d0"
+data-authkey="ASATLSOSXGDG1X42OZFM"
+data-aid="6c828d43c0644e4584665fd823cfd51d"
 data-remember-username-enabled="True"
 data-email-first-username=""
-data-restart-auth-url="https&#x3a;&#x2f;&#x2f;sso-cedf2f54.sso.duosecurity.com&#x2f;saml2&#x2f;sp&#x2f;DI4YHEUG45IY7WRZE988&#x2f;sso&#x3f;aid&#x3d;1fe6f1f83cd44e5891df545efc8b19d0"
+data-restart-auth-url="https&#x3a;&#x2f;&#x2f;sso-cedf2f54.sso.duosecurity.com&#x2f;saml2&#x2f;sp&#x2f;DI4YHEUG45IY7WRZE988&#x2f;sso&#x3f;aid&#x3d;6c828d43c0644e4584665fd823cfd51d"
 data-phishing-protection-enabled="True"
 data-custom-background=""
 data-custom-background-color=""
 data-custom-accent-color=""
 data-custom-logo-url="&#x2f;logo"
 data-secured-by-duo="True"
-data-fallback-url="&#x2f;login&#x2f;&#x3f;authkey&#x3d;ASNSXIM03HE4CJ32X5FN&amp;aid&#x3d;1fe6f1f83cd44e5891df545efc8b19d0"
+data-fallback-url="&#x2f;login&#x2f;&#x3f;authkey&#x3d;ASATLSOSXGDG1X42OZFM&amp;aid&#x3d;6c828d43c0644e4584665fd823cfd51d"
 data-req-trace-group="None"
 ></div>
 <script src="&#x2f;static&#x2f;shared&#x2f;lib&#x2f;jquery&#x2f;jquery.min.js&#x3f;v&#x3d;ff152"></script>

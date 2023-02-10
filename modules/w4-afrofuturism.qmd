@@ -1,7 +1,6 @@
 ---
 title: "W4: Afrofuturism"
 toc: false
-format-links: false
 filters:
   - lightbox
 lightbox: auto
@@ -79,7 +78,7 @@ Ytasha L. Womack, [_Afrofuturism: The World of Black Sci-Fi and Fantasy Culture_
 
 Nicole D. Sconiers, "[The State of Black Sci-Fi 2012: My Tribute to Afrofuturist Betye Saar](http://nicolesconiers.com/blog/2012/02/20/the-state-of-black-sci-fi-2012-my-tribute-to-afrofuturist-betye-saar/)"
 
-Martine Syms, "[The Mundane Afrofuturist Manifesto](http://thirdrailquarterly.org/martine-syms-the-mundane-afrofuturist-manifesto/)" (2013) [[pdf](https://canvas.emerson.edu/courses/1932613/files/145601589?wrap=1 "thirdrail_spring2014_final_msyms.pdf")]
+Martine Syms, "[The Mundane Afrofuturist Manifesto](http://thirdrailquarterly.org/martine-syms-the-mundane-afrofuturist-manifesto/)" (2013)
 
 {{< video https://youtu.be/otUJvQhCjJ0 width="640" height="360" >}}
 {{< video https://youtu.be/mXR4IaUmpZk width="640" height="360" >}}

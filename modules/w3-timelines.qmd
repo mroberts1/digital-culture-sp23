@@ -1,6 +1,7 @@
 ---
 title: "W3: Alternate Timelines"
 toc: false
+format-links: false
 ---
 
 ::: {.column-page layout="[[24, -1, 24, -1, 24, -1, 24, 1]]"}
