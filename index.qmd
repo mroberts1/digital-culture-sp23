@@ -5,7 +5,6 @@ title: ""
 ## VM303-01 Studies in Digital Media & Culture
 
 ::: {layout="[[49, -2, 49]]"}
-
 [![](img/dudewithsign.jpg){fig-alt="Link to page of Instagram artist Seth aka dudewithsign"}](https://instagram.com/dudewithsign/)
 
 [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
@@ -16,13 +15,11 @@ Ansin 605\
 [Dr. Martin Roberts](http://mroberts.emerson.build/)\
 Office hrs: Thur 3:00-5:00 p.m.\
 Office: Ansin 915C\
-[YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF) \| [Syllabus](https://mroberts1.github.io/digital-culture-sp23/) (outside Canvas)\
-
 :::
 
 ------------------------------------------------------------------------
 
-[YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF) \| [Mastodon Quickstart](https://canvas.emerson.edu/courses/1932613/pages/mastodon-quickstart "Mastodon Quickstart") \| 
+[YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF) \| [Syllabus](https://mroberts.emerson.build/courses/vm-303-01/sp23/) (outside Canvas) \| [Mastodon Quickstart](https://canvas.emerson.edu/courses/1932613/pages/mastodon-quickstart "Mastodon Quickstart") \| 
 
 **Modules**: [W1: Terminal Lucidity](https://canvas.emerson.edu/courses/1932613/pages/w1-terminal-lucidity "W1 Terminal Lucidity") \| [W2: Lurking](https://canvas.emerson.edu/courses/1932613/pages/w2-lurking "W2 Lurking") \| [W3: Alternate Timelines](https://canvas.emerson.edu/courses/1932613/pages/w3-alternate-timelines "W3: Alternate Timelines") \| [W4: Black Twitter](https://canvas.emerson.edu/courses/1932613/pages/w4-black-twitter "W4: Black Twitter") \|
 
@@ -142,7 +139,7 @@ Jason Parham, "[Why The History of Black Twitter Needed to be Told](https://www.
 
 Jason Parham, "[A People's History of Black Twitter](https://www.wired.com/story/black-twitter-oral-history-part-i-coming-together/)" (*WIRED*, 29 July 2021)
 
-[Part I](https://canvas.emerson.edu/courses/1932613/files/145300027?wrap=1 "A People’s History of Black Twitter, Part I _ WIRED.pdf") - [Part II](https://canvas.emerson.edu/courses/1932613/files/145300043?wrap=1 "A People’s History of Black Twitter, Part II _ WIRED.pdf") - [Part III](https://canvas.emerson.edu/courses/1932613/files/145300055?wrap=1 "A People’s History of Black Twitter, Part III _ WIRED.pdf") 
+[Part I](pdf/black-twitter1.pdf) - [Part II](pdf/blacktwitter2.pdf) - [Part III](pdf/black-twitter3.pdf) 
 
 2023-02-09_Thur
 
@@ -170,7 +167,7 @@ Recommended: [*The African Desperate*](https://mubi.com/films/the-african-desper
 2023-02-14_Tues
 
 **Point-and-Shoot: Lo-fi Photography and Retro-Aesthetics**\
-Huang, Kalley. "[The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html?fbclid=IwAR1X2DutHJgtJFKB6XdcFjbm3kFB9P-IXPT7HckeGErsOrk0jTVGxugXYzk&referringSource=articleShare&smid=nytcore-ios-share&unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqIhkSVUbBCbJUNMnqBqCgvfeh7A9iX7iJSzQQj9Hwv4cGM2H_1bIfbd4ItA62TOdAt9dNbtlDNpD8thiBW0_AQ-5vsnD350fPyQ-rY_0Dm9qhMvBUL59-jTjPizkd7wmgezgtErDOzbvUaLc2CB2LF1isoIlIQ_xoQEAxqjPGuB009hsj7x2Vt0hG2B2NGTdtOLoCh5_JNyFchjZjwE8UOhdUjzQ9sWOv_NCKE4BTAKbEw4spDo0-9heO9kIPa7gLBZGeMv2gLoZD2cAP55OPFabG3prPPkN94E3_vHG)"
+Huang, Kalley. "[The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](pdf/nyt-digital-camera.pdf)"
 
 "[Snapshot Aesthetics and the Strategic Imagination](http://ivc.lib.rochester.edu/snapshot-aesthetics-and-the-strategic-imagination/)"
 
@@ -179,7 +176,7 @@ Huang, Kalley. "[The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](https
 **Soft Images: From Photograph to Database**\
 Horning, "[The Expanded Field](https://robhorning.substack.com/p/the-expanded-field)"
 
-Hoelzl and Marie, "Expanded Photography (The Desire for Endlessness)" in *Softimage*)
+Hoelzl and Marie, "[Expanded Photography (The Desire for Endlessness)](pdf/softimage-expanded-photography%22%20in%20*Softimage*)
 
 "[DALL-E: Introducting Outpainting](https://openai.com/blog/dall-e-introducing-outpainting/)"
 
@@ -385,39 +382,37 @@ Write a proposal of approximately 1,000-1,500 words in length (4-6 pages, double
 
 ------------------------------------------------------------------------
 
-### Bibliography
+#### **Bibliography**
 
 \[A\] = audiobook ([Audible.com](http://audible.com/))
 
-Barthes, Roland. "Rhetoric of the Image," in *Image Music Text*. Essays selected and translated by Stephen Heath. London: FontanaPress, 1977: 32-51.
+Barthes, Roland. \"Rhetoric of the Image,\" in *Image Music Text*. Essays selected and translated by Stephen Heath. London: FontanaPress, 1977: 32-51.
 
-Cote, Amanda C. *Gaming Sexism: Gender and Identity in the Era of Casual Video Games* (New York: NYU Press, 2020).
+Dery, Mark. \"Black to the Future: Interviews with Samuel R. Delaney, Greg Tate, and Tricia Rose,\" in *Flame Wars: The Discourse of Cyberculture* (Durham: Duke University Press, 1994
 
-Dery, Mark. "Black to the Future: Interviews with Samuel R. Delaney, Greg Tate, and Tricia Rose," in *Flame Wars: The Discourse of Cyberculture* (Durham: Duke University Press, 1994
+Eshun, Kodwo. \"Further Considerations on Afrofuturism\" (*The New Centennial Review*, vol. 3, no. 2 (Summer 2003): 287-302)
 
-Eshun, Kodwo. "Further Considerations on Afrofuturism" (*The New Centennial Review*, vol. 3, no. 2 (Summer 2003): 287-302)
+Fisher, Mark. \"\'The Slow Cancellation of the Future,\'\" in *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. Winchester, UK: Zero Books, 2014.
 
-Fisher, Mark. "'The Slow Cancellation of the Future,'" in *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. Winchester, UK: Zero Books, 2014.
+Hoelzl, Ingrid, and Rémi Marie. \"Expanded Photography (The Desire for Endlessness),\" in *Softimage: Towards A New Theory of the Digital Image*. Bristol, UK: Intellect Books, 2015.
 
-Hoelzl, Ingrid, and Rémi Marie. "Expanded Photography (The Desire for Endlessness)," in *Softimage: Towards A New Theory of the Digital Image*. Bristol, UK: Intellect Books, 2015.
+\[A\] [Hon, Adrian](https://mssv.net/). *You\'ve Been Played: How Corporations, Governments, and Schools Use Games to Control Us All*. New York: Basic Books, 2022.
 
-\[A\] [Hon, Adrian](https://mssv.net/). *You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All*. New York: Basic Books, 2022.
-
-Huang, Kalley. "[The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html?fbclid=IwAR1X2DutHJgtJFKB6XdcFjbm3kFB9P-IXPT7HckeGErsOrk0jTVGxugXYzk&referringSource=articleShare&smid=nytcore-ios-share&unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqIhkSVUbBCbJUNMnqBqCgvfeh7A9iX7iJSzQQj9Hwv4cGM2H_1bIfbd4ItA62TOdAt9dNbtlDNpD8thiBW0_AQ-5vsnD350fPyQ-rY_0Dm9qhMvBUL59-jTjPizkd7wmgezgtErDOzbvUaLc2CB2LF1isoIlIQ_xoQEAxqjPGuB009hsj7x2Vt0hG2B2NGTdtOLoCh5_JNyFchjZjwE8UOhdUjzQ9sWOv_NCKE4BTAKbEw4spDo0-9heO9kIPa7gLBZGeMv2gLoZD2cAP55OPFabG3prPPkN94E3_vHG)." *New York Times*, 7 January 2023.
+Huang, Kalley. \"[The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html?fbclid=IwAR1X2DutHJgtJFKB6XdcFjbm3kFB9P-IXPT7HckeGErsOrk0jTVGxugXYzk&referringSource=articleShare&smid=nytcore-ios-share&unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqIhkSVUbBCbJUNMnqBqCgvfeh7A9iX7iJSzQQj9Hwv4cGM2H_1bIfbd4ItA62TOdAt9dNbtlDNpD8thiBW0_AQ-5vsnD350fPyQ-rY_0Dm9qhMvBUL59-jTjPizkd7wmgezgtErDOzbvUaLc2CB2LF1isoIlIQ_xoQEAxqjPGuB009hsj7x2Vt0hG2B2NGTdtOLoCh5_JNyFchjZjwE8UOhdUjzQ9sWOv_NCKE4BTAKbEw4spDo0-9heO9kIPa7gLBZGeMv2gLoZD2cAP55OPFabG3prPPkN94E3_vHG).\" *New York Times*, 7 January 2023.
 
 [Manovich, Lev](https://manovich.net/), and Emanuele Arielli. [*Artificial Aesthetics: A Critical Guide to AI, Media and Design*](http://manovich.net/index.php/projects/artificial-aesthetics-book). 2019-22.
 
 [McNeil, Joanne](https://joannemcneil.com/). *Lurking: How A Person Became A User*. New York: Farrar, Strauss, and Giroux, 2020. ISBN: 978-1250785756.
 
-Mumford, Lewis. "Authoritarian and Democratic Technics," *Technology and Culture* 5, no. 1 (Winter 1964): 1--8. https://doi.org/10.2307/3101118.
+Mumford, Lewis. \"Authoritarian and Democratic Technics,\" *Technology and Culture* 5, no. 1 (Winter 1964): 1--8. https://doi.org/10.2307/3101118.
 
-Narr, Greg, and Anh Luong, "Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom." *The Communication Review*, 5 October. https://doi.org/10.1080/10714421.2022.2129949
+Narr, Greg, and Anh Luong, \"Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom.\" *The Communication Review*, 5 October. https://doi.org/10.1080/10714421.2022.2129949
 
-"[Snapshot Aesthetics and the Strategic Imagination](http://ivc.lib.rochester.edu/snapshot-aesthetics-and-the-strategic-imagination/)". *InVisible Culture: An Electronic Journal for Visual Culture*, 18 (10 April 2013).
+\"[Snapshot Aesthetics and the Strategic Imagination](http://ivc.lib.rochester.edu/snapshot-aesthetics-and-the-strategic-imagination/)\". *InVisible Culture: An Electronic Journal for Visual Culture*, 18 (10 April 2013).
 
 \[A\] Tiffany, Kaitlyn. *Everything I Need I Get From You: How Fangirls Created the Internet as We Know It*. Farrar, Strauss & Giroux, 2022. ISBN: 978-0374539184.
 
-------------------------------------------------------------------------
+\[A\] Womack, Ytasha L. [*Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*](https://ebookcentral.proquest.com/lib/emerson/reader.action?docID=1381831&ppg=1) (Chicago: Lawrence Hill Books, 2013).
 
 ### Policies
 
