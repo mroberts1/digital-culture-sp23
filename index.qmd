@@ -21,8 +21,6 @@ Office: Ansin 915C\
 
 [YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM7Qmw6Bw1tdTG0Th7xhrVHF) \| [Syllabus](https://mroberts.emerson.build/courses/vm-303-01/sp23/) (outside Canvas) \| [Mastodon Quickstart](https://canvas.emerson.edu/courses/1932613/pages/mastodon-quickstart "Mastodon Quickstart") \| 
 
-**Modules**: [W1: Terminal Lucidity](https://canvas.emerson.edu/courses/1932613/pages/w1-terminal-lucidity "W1 Terminal Lucidity") \| [W2: Lurking](https://canvas.emerson.edu/courses/1932613/pages/w2-lurking "W2 Lurking") \| [W3: Alternate Timelines](https://canvas.emerson.edu/courses/1932613/pages/w3-alternate-timelines "W3: Alternate Timelines") \| [W4: Black Twitter](https://canvas.emerson.edu/courses/1932613/pages/w4-black-twitter "W4: Black Twitter") \|
-
 ------------------------------------------------------------------------
 
 ### Overview
