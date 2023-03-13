@@ -63,7 +63,7 @@ Ytasha L. Womack, [*Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*
 "[The Futurist Digital Collages by Manzel Bowman](https://www.africandigitalart.com/the-futurist-digital-collages-by-manzel-bowman/)"  
 [African Digital Art](http://africandigitalart.com)
 
-[!Olalekan Jeyifous, Lagos 2180 (2013)](../img/lagos-2180.jpg){fig-align="left" fig-alt="Olalekan Jeyifous, Lagos 2180"}
+![Olalekan Jeyifous, Lagos 2180 (2013)](../img/lagos-2180.jpg){fig-align="left" fig-alt="Olalekan Jeyifous, Lagos 2180"}
 
 [Olalekan Jeyifous, Shanty Mega-Structures](https://jeyifo.us/SMS)
 
