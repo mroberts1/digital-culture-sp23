@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mroberts1.github.io/digital-culture-sp23/resources/mastodon.html</loc>
-    <lastmod>2023-02-10T18:30:21.471Z</lastmod>
+    <loc>https://github.com/mroberts1/digital-culture-sp23/modules/w2-lurking.html</loc>
+    <lastmod>2023-03-13T22:29:11.386Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/digital-culture-sp23/index.html</loc>
-    <lastmod>2023-02-10T18:30:28.806Z</lastmod>
+    <loc>https://github.com/mroberts1/digital-culture-sp23/modules/w5-digital-imageworlds.html</loc>
+    <lastmod>2023-03-13T22:30:21.094Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/digital-culture-sp23/modules/w2-lurking.html</loc>
-    <lastmod>2023-02-10T18:30:35.174Z</lastmod>
+    <loc>https://github.com/mroberts1/digital-culture-sp23/modules/w4-afrofuturism.html</loc>
+    <lastmod>2023-03-13T22:30:26.462Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/digital-culture-sp23/modules/w3-timelines.html</loc>
-    <lastmod>2023-02-10T18:30:41.087Z</lastmod>
+    <loc>https://github.com/mroberts1/digital-culture-sp23/modules/w3-timelines.html</loc>
+    <lastmod>2023-03-13T22:30:37.374Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/digital-culture-sp23/modules/w4-afrofuturism.html</loc>
-    <lastmod>2023-02-10T18:30:52.633Z</lastmod>
+    <loc>https://github.com/mroberts1/digital-culture-sp23/index.html</loc>
+    <lastmod>2023-03-13T22:30:43.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/mroberts1/digital-culture-sp23/resources/mastodon.html</loc>
+    <lastmod>2023-03-13T22:30:48.695Z</lastmod>
   </url>
 </urlset>
