@@ -1,13 +1,14 @@
 ---
 title: "W5: Digital Imageworlds"
 toc: false
+format-links: false
 ---
 
 ### Point-and-Shoot: Lo-fi Photography and Retro-Aesthetics
 
 **The Kodak Brownie**
 
-Alise Tiefentale, "![](https://prod.ally.ac/static/ally-icon-indicator-low-circle.b7cd3e0c1511a1080fd322790193604f.svg)[Art of the Masses: From Kodak Brownie to Instagram](https://canvas.emerson.edu/courses/1932613/files/145788159?wrap=1 "Art_of_the_Masses_From_Kodak_Brownie_to.pdf")
+Alise Tiefentale, [Art of the Masses: From Kodak Brownie to Instagram](http://www.alisetifentale.net/article-archive/2016/11/9/art-of-the-masses-from-kodak-brownie-to-instagram) [pdf](pdf/art-masses-tifentale.pdf)
 
 "[The Kodak Girl: Women in Kodak Advertising](https://library.torontomu.ca/asc/2013/10/the-kodak-girl-women-in-kodak-advertising/)"
 
