@@ -2,6 +2,14 @@
 title: ""
 ---
 
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
 ## VM303-01 Studies in Digital Media & Culture
 
 ::: {layout="[[49, -2, 49]]"}

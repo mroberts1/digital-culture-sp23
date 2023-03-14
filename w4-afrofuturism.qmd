@@ -4,6 +4,14 @@ toc: false
 format-links: false
 ---
 
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
 > Unlike previous eras, today's artists can wield the power of digital media, social platforms, digital video, graphic arts, gaming technology, and more to tell their stories, share their stories, and connect with audiences inexpensively---a gift from the sci-fi gods, so to speak, that was unthinkable at the turn of the century. The storytelling gatekeepers vanished with the high-speed modem, and for the first time in history, people of color have a greater ability to project their own stories. This tug-and-pull debate over black people controlling their image shifts considerably when a fledgling filmmaker can shoot his sci-fi web series on a \$500 DV cam, post it on YouTube, and promote it on Instagram and Twitter.
 >
 > ---Ytasha L. Womack,  [*Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*](https://www.chicagoreviewpress.com/afrofuturism-products-9781613747964.php): 10.

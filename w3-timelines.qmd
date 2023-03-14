@@ -3,6 +3,13 @@ title: "W3: Alternate Timelines"
 toc: false
 format-links: false
 ---
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
 
 ::: {.column-page layout="[[24, -1, 24, -1, 24, -1, 24, 1]]"}
 [![](img/tumblrporn.jpeg)](http://www.instarbooks.com/books/tumblr-porn.html)

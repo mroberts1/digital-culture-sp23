@@ -3,6 +3,13 @@ title: "W5: Digital Imageworlds"
 toc: false
 format-links: false
 ---
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
 
 ### Point-and-Shoot: Lo-fi Photography and Retro-Aesthetics
 
