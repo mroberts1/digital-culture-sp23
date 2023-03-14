@@ -5,20 +5,20 @@ format-links: false
 ---
 
 ::: {.column-page layout="[[24, -1, 24, -1, 24, -1, 24, 1]]"}
-[![](../img/tumblrporn.jpeg)](http://www.instarbooks.com/books/tumblr-porn.html)
+[![](img/tumblrporn.jpeg)](http://www.instarbooks.com/books/tumblr-porn.html)
 
-[![](../img/toriamos.jpeg)](http://www.instarbooks.com/books/tori-amos-bootleg-webring.html)
+[![](img/toriamos.jpeg)](http://www.instarbooks.com/books/tori-amos-bootleg-webring.html)
 
-[![](../img/googleglass.jpeg)](http://www.instarbooks.com/books/google-glass.html)
+[![](img/googleglass.jpeg)](http://www.instarbooks.com/books/google-glass.html)
 
-[![](../img/myspacescenequeens.jpeg)](http://www.instarbooks.com/books/myspace-scene-queens.html)
+[![](img/myspacescenequeens.jpeg)](http://www.instarbooks.com/books/myspace-scene-queens.html)
 :::
 
-Kaitlyn Tiffany, "[You Probably Don't Remember The Internet](../pdf/tiffany-remember-internet.pdf)"
+Kaitlyn Tiffany, "[You Probably Don't Remember The Internet](pdf/tiffany-remember-internet.pdf)"
 
 ------------------------------------------------------------------------
 
-[![](../img/kaitlyn-tiffany.jpeg){width="60%" fig-align="left"}](https://us.macmillan.com/books/9780374539184/everythingineedigetfromyou)
+[![](img/kaitlyn-tiffany.jpeg){width="60%" fig-align="left"}](https://us.macmillan.com/books/9780374539184/everythingineedigetfromyou)
 
 ------------------------------------------------------------------------
 
@@ -36,6 +36,6 @@ Kaitlyn Tiffany, "[You Probably Don't Remember The Internet](../pdf/tiffany-reme
 
 {{< video https://youtu.be/9c6W4CCU9M4 >}} {{< video https://youtu.be/_mRF0rBXIeg >}} {{< video https://youtu.be/D7TB8b2t3QE >}} {{< video https://vimeo.com/46304267 >}}
 
-[![](../img/insight.png){fig-align="left"}](https://www.explainxkcd.com/wiki/index.php/Category:Google_Glass)
+[![](img/insight.png){fig-align="left"}](https://www.explainxkcd.com/wiki/index.php/Category:Google_Glass)
 
 ------------------------------------------------------------------------

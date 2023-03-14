@@ -30,9 +30,9 @@ Jason Farago, "[How Klee's 'Angel of History' Took Flight](https://www.bbc.com/c
 
 *The Last Angel of History* (John Akomfrah/Black Audio Film Collective, 1995)
 
-Mark Dery, "[Black to the Future: Interviews with Samuel R. Delaney, Greg Tate, and Tricia Rose](../pdf/dery-afrofuturism.pdf)," in *Flame Wars: The Discourse of Cyberculture* (Durham: Duke University Press, 1994.
+Mark Dery, "[Black to the Future: Interviews with Samuel R. Delaney, Greg Tate, and Tricia Rose](pdf/dery-afrofuturism.pdf)," in *Flame Wars: The Discourse of Cyberculture* (Durham: Duke University Press, 1994.
 
-Kodwo Eshun, "[Further Considerations on Afrofuturism](/pdf/eshun-afrofuturism.pdf)" *The New Centennial Review*, vol. 3, no. 2, Summer2003, pp. 287-302.
+Kodwo Eshun, "[Further Considerations on Afrofuturism](pdf/eshun-afrofuturism.pdf)" *The New Centennial Review*, vol. 3, no. 2, Summer2003, pp. 287-302.
 
 **Films**
 
@@ -58,12 +58,12 @@ Ytasha L. Womack, [*Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*
 
 ### II. Digital Afrofuturism
 
-[![manzel-bowman](img/manzel-bowman.png)](https://www.manzel.biz/gallery)\]
+[![](img/manzel-bowman.png)](https://www.manzel.biz/gallery)
 
-"[The Futurist Digital Collages by Manzel Bowman](https://www.africandigitalart.com/the-futurist-digital-collages-by-manzel-bowman/)"  
+"[The Futurist Digital Collages by Manzel Bowman](https://www.africandigitalart.com/the-futurist-digital-collages-by-manzel-bowman/)"\
 [African Digital Art](http://africandigitalart.com)
 
-![Olalekan Jeyifous, Lagos 2180 (2013)](img/olalekan-jeyifous.jpg){fig-align="left" fig-alt="Olalekan Jeyifous, Lagos 2180"}
+![Olalekan Jeyifous, "Lagos 2180" (2013)](img/lagos-2180.png){fig-align="left" fig-alt="Olalekan Jeyifous, Lagos 2180"}  
 
 [Olalekan Jeyifous, Shanty Mega-Structures](https://jeyifo.us/SMS)
 
