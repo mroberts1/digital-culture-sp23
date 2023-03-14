@@ -1,7 +1,6 @@
 ---
 title: "W5: Digital Imageworlds"
 toc: false
-format-links: false
 ---
 ```{r}
 #| label: load-packages

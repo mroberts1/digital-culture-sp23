@@ -1,7 +1,6 @@
 ---
 title: "W3: Alternate Timelines"
 toc: false
-format-links: false
 ---
 ```{r}
 #| label: load-packages

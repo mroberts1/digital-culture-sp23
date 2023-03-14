@@ -1,7 +1,6 @@
 ---
 title: "W4: Afrofuturism"
 toc: false
-format-links: false
 ---
 
 ```{r}
