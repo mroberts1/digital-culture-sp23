@@ -13,10 +13,10 @@ website:
         file: index.qmd
       - text: "Modules"
         menu: 
-          - modules/w2-lurking.qmd
-          - modules/w3-timelines.qmd
-          - modules/w4-afrofuturism.qmd
-          - modules/w5-digital-imageworlds.qmd
+          - w2-lurking.qmd
+          - w3-timelines.qmd
+          - w4-afrofuturism.qmd
+          - w5-digital-imageworlds.qmd
       - text: "Resources"
         menu:
           - resources/mastodon.qmd

@@ -14,7 +14,7 @@ format-links: false
 [![](../img/myspacescenequeens.jpeg)](http://www.instarbooks.com/books/myspace-scene-queens.html)
 :::
 
-Kaitlyn Tiffany, "[You Probably Don't Remember The Internet](https://canvas.emerson.edu/courses/1932613/files/145219877?wrap=1 "'Remember the Internet'_ An Encyclopedia of Online Life - The Atlantic.pdf")"
+Kaitlyn Tiffany, "[You Probably Don't Remember The Internet](../pdf/tiffany-remember-internet.pdf)"
 
 ------------------------------------------------------------------------
 
